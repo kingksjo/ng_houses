@@ -1,1 +1,1 @@
-# Using Linear Regression to analyze housing data in Nigeria
+# Using Linear Regression to Predicted house prices in Nigeria
