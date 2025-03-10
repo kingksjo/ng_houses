@@ -1,0 +1,801 @@
+type of house,location,price,bedrooms,bathrooms,toilets,parking_space
+4 bedroom terraced duplex for sale,"Chevron, Lekki, Lagos","₦200,000,000",4.0,4.0,5.0,2.0
+5 bedroom detached duplex for sale,"Ikate, Lekki, Lagos","₦750,000,000",5.0,5.0,6.0,
+4 bedroom detached duplex for sale,"Oral Estate, Ikota, Lekki, Lagos","₦180,000,000",4.0,5.0,5.0,
+5 bedroom detached duplex for sale,"Lekki County, Ikota, Lekki, Lagos","₦230,000,000",5.0,5.0,6.0,9.0
+4 bedroom semi-detached duplex for sale,"Ikota, Lekki, Lagos","₦180,000,000",4.0,4.0,5.0,2.0
+5 bedroom detached duplex for sale,"Ikate Elegushi, Lekki, Lagos","₦750,000,000",5.0,5.0,7.0,
+5 bedroom detached duplex for sale,"Pinnock Beach Estate, Osapa, Lekki, Lagos","₦800,000,000",5.0,5.0,6.0,
+5 bedroom detached duplex for sale,"Pinnock Beach Estate, Osapa, Lekki, Lagos","₦1,700,000,000",5.0,5.0,6.0,
+5 bedroom detached duplex for sale,"Osapa, Lekki, Lagos","₦500,000,000",5.0,5.0,6.0,4.0
+5 bedroom detached duplex for sale,"Lekki Phase 1, Lekki, Lagos","₦650,000,000",5.0,5.0,6.0,
+6 bedroom detached duplex for sale,"Lekki Phase 1, Lekki, Lagos","₦1,500,000,000",6.0,6.0,7.0,8.0
+4 bedroom detached duplex for sale,"Banana Island, Ikoyi, Lagos","₦3,500,000,000",4.0,4.0,5.0,
+5 bedroom detached duplex for sale,"Royal Garden Estate, Ajah, Lagos","₦650,000,000",5.0,5.0,6.0,
+3 bedroom detached bungalow for sale,"Eleko, Ibeju Lekki, Lagos","₦65,000,000",3.0,3.0,4.0,
+3 bedroom detached bungalow for sale,"Eleko, Ibeju Lekki, Lagos","₦58,000,000",3.0,3.0,4.0,
+3 bedroom house for sale,"By Idera Scheme & Adjacent New Lekki International Airport, Eleko, Ibeju Lekki, Lagos","₦58,000,000",3.0,3.0,4.0,3.0
+3 bedroom detached bungalow for sale,"By Idera Scheme & 5 Minutes The New Lekki International Airport, Eleko, Ibeju Lekki, Lagos","₦58,000,000",3.0,3.0,4.0,
+3 bedroom detached bungalow for sale,"Idera Scheme, Eleko, Ibeju Lekki, Lagos","₦65,000,000",3.0,3.0,4.0,
+3 bedroom detached bungalow for sale,"Adjacent New Lekki International Airport By Idera Scheme, Eleko, Ibeju Lekki, Lagos","₦58,000,000",3.0,3.0,4.0,4.0
+Land for sale,"Agunecheibe Luxury Homes Phase 2, Asaba, Delta","₦2,500,000",,,,
+5 bedroom detached duplex for sale,"Chevron Drive, Lekki, Lagos","₦850,000,000",5.0,5.0,6.0,4.0
+2 bedroom flat / apartment for sale,"Ikate, Lekki, Lagos","₦150,000,000",2.0,2.0,3.0,
+2 bedroom block of flats for sale,"Ikate, Lekki, Lagos","₦60,000,000",2.0,2.0,3.0,1.0
+5 bedroom detached duplex for sale,"Lekky County Homes, Ikota, Lekki, Lagos","₦400,000,000",5.0,5.0,6.0,4.0
+Residential land for sale,"Orchid Road, Lafiaji, Lekki, Lagos","₦100,000,000",,,,
+4 bedroom terraced duplex for sale,"Orchid Road, Lafiaji, Lekki, Lagos","₦115,000,000",4.0,4.0,5.0,2.0
+2 bedroom flat / apartment for sale,"Orchid Road, Lafiaji, Lekki, Lagos","₦90,000,000",2.0,2.0,3.0,2.0
+4 bedroom semi-detached duplex for sale,"Ologolo, Lekki, Lagos","₦200,000,000",4.0,4.0,5.0,
+Plaza / complex / mall for sale,"VGC, Lekki, Lagos","₦40,000,000",,1.0,1.0,1.0
+2 bedroom flat / apartment for sale,"Lekki Phase 1, Lekki, Lagos","₦250,000,000",2.0,2.0,3.0,
+3 bedroom flat / apartment for sale,"Lekki Phase 1, Lekki, Lagos","₦275,000,000",3.0,3.0,4.0,
+5 bedroom house for sale,"Lekki Phase 1, Lekki, Lagos","₦1,000,000,000",5.0,5.0,6.0,
+3 bedroom flat / apartment for sale,"Lekki Phase 1, Lekki, Lagos","₦350,000,000",3.0,3.0,4.0,
+9 bedroom detached duplex for sale,"By Balogun, Iju-Ishaga, Agege, Lagos","₦90,000,000",9.0,6.0,6.0,5.0
+Office space for sale,"Olofin Street Off Warehouse Road, Apapa, Lagos","₦250,000,000",,,,
+Land for sale,"Epe, Lagos","₦8,500,000",,,,
+5 bedroom detached duplex for sale,"Banana Island, Ikoyi, Lagos","$1,500,000",5.0,5.0,6.0,
+3 bedroom flat / apartment for sale,"Marion Apartment, Banana Island, Ikoyi, Lagos","$1,300,000",3.0,3.0,4.0,
+4 bedroom semi-detached duplex for sale,"Beechwood Estate, Ibeju Lekki, Lagos","₦100,000,000",4.0,4.0,5.0,
+3 bedroom terraced duplex for sale,"Jahi District By Aduvie Junction, Jahi, Abuja","₦160,000,000",3.0,4.0,4.0,2.0
+2 bedroom flat / apartment for sale,"Oniru, Victoria Island (VI), Lagos","₦185,000,000",2.0,3.0,3.0,
+4 bedroom semi-detached duplex for sale,"Lekki, Lagos","₦220,000,000",4.0,,5.0,
+4 bedroom terraced duplex for sale,"Lekki Conservation, Lekki, Lagos","₦195,000,000",4.0,4.0,5.0,
+5 bedroom detached duplex for sale,"Mega Mound, Lekky County, Ikota, Lekki, Lagos","₦380,000,000",5.0,5.0,6.0,
+5 bedroom detached duplex for sale,"Lekki County Estate, Ikota Lekki Lagos, Ikota, Lekki, Lagos","₦470,000,000",5.0,5.0,6.0,5.0
+Land for sale,"Ikota, Lekki, Lagos","₦170,000,000",,,,
+4 bedroom semi-detached duplex for sale,"Ologolo, Lekki, Lagos","₦160,000,000",4.0,4.0,5.0,3.0
+2 bedroom block of flats for sale,"Ologolo, Lekki, Lagos","₦65,000,000",2.0,2.0,3.0,2.0
+4 bedroom terraced duplex for sale,"VGC, Lekki, Lagos","₦85,000,000",4.0,4.0,5.0,2.0
+6 bedroom detached duplex for sale,"Western Foreshore Estate, Osapa, Lekki, Lagos","₦375,000,000",6.0,6.0,7.0,3.0
+5 bedroom semi-detached duplex for sale,"Shoreline Drive, Ikoyi, Lagos","₦950,000,000",5.0,5.0,6.0,
+5 bedroom semi-detached duplex for sale,"Parkview Estate Ikoyi, Parkview, Ikoyi, Lagos","₦850,000,000",5.0,5.0,6.0,3.0
+2 bedroom terraced duplex for sale,"Ajah, Lagos","₦60,000,000",2.0,2.0,3.0,
+4 bedroom detached duplex for sale,"Ajah, Lagos","₦150,000,000",4.0,4.0,5.0,
+8 bedroom semi-detached duplex for sale,"Ado Road, Ajah, Lagos","₦120,000,000",8.0,6.0,6.0,
+2 bedroom detached duplex for sale,"Sangotedo, Sangotedo, Ajah, Lagos","₦60,000,000",2.0,2.0,3.0,2.0
+Residential land for sale,"Luxury Plots Of Land In A Secured Estate With Good Title, Badore, Ajah, Lagos","₦60,000,000",,,,
+3 bedroom detached bungalow for sale,"Idera Scheme, Eleko, Ibeju Lekki, Lagos","₦58,000,000",3.0,,,
+5 bedroom detached duplex for sale,"Trans Ekulu, Enugu, Enugu","₦140,000,000",5.0,5.0,6.0,
+3 bedroom block of flats for sale,"Ga.e Village, Games Village, Kaura, Abuja","₦130,000,000",3.0,3.0,4.0,
+3 bedroom flat / apartment for sale,"Victoria Island (VI), Lagos","₦390,000,000",3.0,3.0,4.0,
+4 bedroom terraced duplex for sale,"Abijo Gra, Lekki, Lagos","₦110,000,000",4.0,4.0,5.0,2.0
+5 bedroom detached duplex for sale,"Ologolo, Lekki, Lagos","₦280,000,000",5.0,5.0,6.0,
+5 bedroom detached duplex for sale,"Chevron, Lekki, Lagos","₦420,000,000",5.0,5.0,6.0,3.0
+5 bedroom detached duplex for sale,"Lekki, Lagos","₦390,000,000",5.0,,6.0,
+2 bedroom flat / apartment for sale,"Ikate, Lekki, Lagos","₦150,000,000",2.0,2.0,3.0,
+Land for sale,"Ikota, Lekki, Lagos","₦170,000,000",,,,
+4 bedroom terraced duplex for sale,"Ikota, Lekki, Lagos","₦130,000,000",4.0,,,
+5 bedroom detached duplex for sale,"Ikota, Lekki, Lagos","₦420,000,000",5.0,,,
+4 bedroom semi-detached duplex for sale,"Ikate Elegushi, Lekki, Lagos","₦280,000,000",4.0,,,
+5 bedroom house for sale,"Off Freedom Way, Lekki Phase 1, Lekki, Lagos","₦700,000,000",5.0,6.0,6.0,
+4 bedroom flat / apartment for sale,"Glover Road, Ikoyi, Lagos","₦1,800,000,000",4.0,5.0,5.0,2.0
+3 bedroom flat / apartment for sale,"Ikoyi, Lagos","₦450,000,000",3.0,3.0,4.0,
+3 bedroom house for sale,"Ikoyi, Lagos","₦1,200,000,000",3.0,3.0,4.0,
+3 bedroom flat / apartment for sale,"Off Royal Palm Drive, Osborne Phase Ii, Osborne, Ikoyi, Lagos","₦480,000,000",3.0,4.0,4.0,
+5 bedroom detached duplex for sale,"3rd Avenue, Banana Island, Ikoyi, Lagos","$4,200,000",5.0,5.0,6.0,
+4 bedroom flat / apartment for sale,"Banana Island, Ikoyi, Lagos","$1,500,000",4.0,3.0,4.0,
+4 bedroom detached bungalow for sale,"Ladoke Akintola Street, Ikeja GRA, Ikeja, Lagos","₦1,200,000,000",4.0,5.0,5.0,12.0
+Mixed-use land for sale,"Off Etal Avenue, Off Oregun Road, Oregun, Ikeja, Lagos","₦300,000,000",,,,
+Land for sale,"Abaren Road, Mowe Town, Ogun","₦30,000,000",,,,
+2 bedroom flat / apartment for sale,"Ologolo, Lekki, Lagos","₦112,000,000",2.0,2.0,3.0,
+2 bedroom flat / apartment for sale,"Ologolo, Lekki, Lagos","₦95,000,000",2.0,2.0,3.0,
+4 bedroom detached duplex for sale,"Ikota, Lekki, Lagos","₦130,000,000",4.0,4.0,5.0,3.0
+5 bedroom detached duplex for sale,"Idado, Idado, Lekki, Lagos","₦550,000,000",5.0,5.0,6.0,3.0
+4 bedroom semi-detached duplex for sale,"Lagoon District, Off Freedom Way, Lekki Phase 1, Lekki, Lagos","₦480,000,000",4.0,4.0,5.0,4.0
+4 bedroom terraced duplex for sale,"Ikoyi, Lagos","$1,200,000",4.0,4.0,5.0,
+4 bedroom flat / apartment for sale,"Ikoyi, Lagos","₦1,000,000,000",4.0,4.0,5.0,
+Land for sale,"Ikoyi, Lagos","₦1,600,000",,,,
+Land for sale,"Ikoyi, Lagos","$25,000,000",,,,
+Land for sale,"Ikoyi, Lagos","₦3,800,000,000",,,,
+3 bedroom flat / apartment for sale,"Ikoyi, Lagos","₦600,000,000",3.0,3.0,4.0,
+2 bedroom flat / apartment for sale,"Ikoyi, Lagos","$1,700,000",2.0,2.0,3.0,
+4 bedroom terraced duplex for sale,"Ikoyi, Lagos","$750,000",4.0,4.0,5.0,
+2 bedroom flat / apartment for sale,"Glover Road, Old Ikoyi, Ikoyi, Lagos","₦800,000,000",2.0,3.0,3.0,
+Land for sale,"Osborne, Ikoyi, Lagos","₦1,400,000",,,,
+Land for sale,"Osborne, Ikoyi, Lagos","₦1,500,000",,,,
+4 bedroom terraced duplex for sale,"Parkview, Ikoyi, Lagos","₦550,000,000",4.0,4.0,5.0,
+3 bedroom terraced duplex for sale,"Ajah, Lagos","₦65,000,000",3.0,3.0,4.0,2.0
+4 bedroom detached duplex for sale,"Ajah, Ajah, Lagos","₦130,000,000",4.0,4.0,5.0,
+12 bedroom house for sale,"Obe, Sapele Road., Benin, Oredo, Edo","₦65,000,000",12.0,,18.0,
+4 bedroom semi-detached duplex for sale,"Victoria Island (VI), Lagos","₦700,000,000",4.0,4.0,5.0,
+2 bedroom block of flats for sale,"Orchid, Lekki, Lagos","₦63,000,000",2.0,2.0,3.0,2.0
+Residential land for sale,"In Serene High Profile Estate In Orchid Lekki, Lekki Phase 1, Lekki, Lagos","₦500,000,000",,,,2000.0
+Land for sale,"Ikoyi, Lagos","₦1,700,000",,,,
+Land for sale,"Ikoyi, Lagos","₦2,000,000",,,,
+4 bedroom semi-detached duplex for sale,"Ikoyi, Lagos","₦900,000,000",4.0,4.0,5.0,
+Land for sale,"Ikoyi, Lagos","₦1,700,000",,,,
+4 bedroom house for sale,"Ikoyi, Lagos","₦1,200,000,000",4.0,4.0,5.0,
+3 bedroom flat / apartment for sale,"Ikoyi, Lagos","$1,100,000",3.0,3.0,4.0,
+4 bedroom terraced duplex for sale,"Ikoyi, Lagos","₦1,200,000,000",4.0,4.0,5.0,
+Commercial property for sale,"Ikoyi, Lagos","₦650,000,000",,,,
+3 bedroom flat / apartment for sale,"Ikoyi, Lagos","$600,000",3.0,3.0,4.0,
+3 bedroom flat / apartment for sale,"Ikoyi, Lagos","$850,000",3.0,2.0,3.0,
+6 bedroom detached duplex for sale,"Ikoyi, Lagos","$2,000,000",6.0,6.0,7.0,
+Land for sale,"Old Ikoyi, Ikoyi, Lagos","₦2,200,000",,,,
+Residential land for sale,"Old Ikoyi, Ikoyi, Lagos","₦2,500,000",,,,
+3 bedroom flat / apartment for sale,"Osborne, Ikoyi, Lagos","₦270,000,000",3.0,3.0,4.0,
+5 bedroom flat / apartment for sale,"Banana Island, Ikoyi, Lagos","$1,500,000",5.0,5.0,6.0,
+Commercial land for sale,"Ikeja GRA, Ikeja, Lagos","₦5,800,000,000",,,,
+3 bedroom flat / apartment for sale,"Gbagada, Lagos","₦150,000,000",3.0,3.0,4.0,
+Residential land for sale,"In Secured Ocean Bay Estate, Orchid, Elengaza Bus Stop Lekki, Lekki Phase 1, Lekki, Lagos","₦300,000,000",,,,1819.0
+Commercial property for sale,"Lekki Phase 1, Lekki, Lagos","₦720,000,000",,,,
+4 bedroom semi-detached duplex for sale,"Osapa, Lekki, Lagos","₦300,000,000",4.0,4.0,5.0,
+2 bedroom block of flats for sale,"Ogudu Lagos Close To Ogudu Gra, GRA, Ogudu, Lagos","₦280,000,000",2.0,3.0,3.0,
+6 bedroom house for sale,"Okabere, Off Sapele Road, Benin, Oredo, Edo","₦40,000,000",6.0,,,
+4 bedroom semi-detached duplex for sale,"Ikate, Lekki, Lagos","₦300,000,000",4.0,4.0,5.0,
+Commercial land for sale,"Lekki - Epe Expressway, Bolorunpelu, Ibeju Lekki, Lagos","₦31,000,000",,,,
+5 bedroom detached duplex for sale,"Lekki, Lagos","₦310,000,000",5.0,5.0,6.0,
+5 bedroom terraced duplex for sale,"Opebi, Ikeja, Ikeja, Lagos","₦28,000,000",5.0,7.0,7.0,3.0
+5 bedroom detached duplex for sale,"Ajah, Ajah, Lagos","₦250,000,000",5.0,5.0,6.0,3.0
+5 bedroom detached duplex for sale,"Chevron, Lekki, Lagos","₦690,000,000",5.0,5.0,6.0,
+4 bedroom flat / apartment for sale,"Surulere, Lagos","₦200,000,000",4.0,,5.0,
+4 bedroom semi-detached duplex for sale,"Nice Location Close To Ogudu Gra Lagos, Ogudu, Lagos","₦250,000,000",4.0,5.0,5.0,
+2 bedroom flat / apartment for sale,"Victoria Island (VI), Lagos","₦170,000,000",2.0,2.0,3.0,
+Residential land for sale,"Located At Igbodu Isiwo Clos To Augustine University, Epe, Lagos","₦5,000,000",,,,
+5 bedroom detached duplex for sale,"Lekki, Lagos","₦430,000,000",5.0,5.0,6.0,
+4 bedroom terraced duplex for sale,"Jahi, Jahi, Abuja","₦300,000,000",4.0,4.0,5.0,2.0
+3 bedroom flat / apartment for sale,"Victoria Island (VI), Lagos","₦250,000,000",3.0,3.0,4.0,
+5 bedroom commercial property for sale,"Ikoyi, Lagos","₦900,000,000",5.0,5.0,6.0,
+Land for sale,"Ikoyi, Lagos","₦1,050,000,000",,,,
+4 bedroom semi-detached duplex for sale,"Lekki Phase 1, Lekki Phase 1, Lekki, Lagos","₦500,000,000",4.0,4.0,5.0,3.0
+4 bedroom flat / apartment for sale,"Ikate Elegushi, Lekki, Lagos","₦295,000,000",4.0,5.0,5.0,3.0
+5 bedroom detached duplex for sale,"Omole Phase 1, Omole Phase 1, Ikeja, Lagos","₦20,000,000",5.0,5.0,6.0,8.0
+Residential land for sale,"Diplomatic Zone, Katampe Extension, Katampe, Abuja","₦1,000,000,000",,,,
+Residential land for sale,"Old Ikoyi, Ikoyi, Lagos","₦2,500,000",,,,
+4 bedroom detached duplex for sale,"Ikota, Lekki, Lagos","₦250,000,000",4.0,4.0,5.0,
+5 bedroom house for sale,"Ikate, Lekki, Lagos","₦500,000,000",5.0,5.0,6.0,4.0
+6 bedroom detached duplex for sale,"Maitama District, Abuja","₦2,500,000,000",6.0,6.0,7.0,6.0
+5 bedroom detached duplex for sale,"Galadimawa, Abuja","₦410,000,000",5.0,5.0,6.0,6.0
+Land for sale,"Functioning Shop At So Easy Bus Stop Ishefun Ayobo, Ayobo, Lagos","₦27,000,000",,,,
+4 bedroom semi-detached duplex for sale,"Ikate, Lekki, Lagos","₦320,000,000",4.0,4.0,4.0,
+7 bedroom detached duplex for sale,"Asokoro Abuja, Asokoro District, Abuja","₦1,700,000,000",7.0,7.0,8.0,5.0
+4 bedroom terraced duplex for sale,"Guzape, Guzape District, Abuja","₦260,000,000",4.0,4.0,5.0,4.0
+4 bedroom detached duplex for sale,"Ajah, Ajah, Lagos","₦190,000,000",4.0,4.0,5.0,3.0
+6 bedroom detached duplex for sale,"Minister Quaters, Maitama District, Abuja","₦3,500,000,000",6.0,6.0,7.0,6.0
+4 bedroom terraced duplex for sale,"Salem, Ikate, Lekki, Lagos","₦250,000,000",4.0,4.0,4.0,2.0
+4 bedroom semi-detached duplex for sale,"Greenland Estate, Ajah, Lagos","₦80,000,000",4.0,4.0,5.0,4.0
+3 bedroom flat / apartment for sale,"Surulere, Lagos","₦90,000,000",3.0,3.0,4.0,
+Land for sale,"Ikoyi, Lagos","₦1,050,000,000",,,,
+4 bedroom semi-detached duplex for sale,"Off Freedom Way, Lekki, Lagos","₦380,000,000",4.0,4.0,5.0,2.0
+4 bedroom house for sale,"Lekki Phase 1, Lekki, Lagos","₦500,000,000",4.0,4.0,5.0,2.0
+4 bedroom terraced duplex for sale,"Lekki Phase 1, Lekki, Lagos","₦350,000,000",4.0,4.0,5.0,3.0
+5 bedroom semi-detached duplex for sale,"Osapa, Lekki, Lagos","₦600,000,000",5.0,5.0,5.0,4.0
+12 bedroom house for sale,"Sapele Road, Close To The Express, Benin, Oredo, Edo","₦70,000,000",12.0,,,
+6 bedroom house for sale,"Eyaen Road, Aduwawa., Benin, Oredo, Edo","₦60,000,000",6.0,,7.0,
+4 bedroom house for sale,"Ologolo, Lekki, Lagos","₦135,000,000",4.0,4.0,5.0,3.0
+5 bedroom detached duplex for sale,"Idado, Lekki, Lagos","₦550,000,000",5.0,5.0,6.0,3.0
+3 bedroom block of flats for sale,"Old Ikoyi Ikoyi, Old Ikoyi, Ikoyi, Lagos","₦600,000,000",3.0,3.0,4.0,2.0
+4 bedroom detached duplex for sale,"Ikota, Ikota, Lekki, Lagos","₦200,000,000",4.0,4.0,5.0,3.0
+5 bedroom detached duplex for sale,"Ikate, Lekki, Lagos","₦500,000,000",5.0,5.0,6.0,4.0
+4 bedroom semi-detached duplex for sale,"Ikate, Lekki, Lagos","₦270,000,000",4.0,4.0,5.0,
+5 bedroom house for sale,"Still Water Estate, Ikate, Ikate, Lekki, Lagos","₦550,000,000",5.0,6.0,6.0,6.0
+4 bedroom terraced duplex for sale,"Ajah, Lekki, Lagos","₦92,000,000",4.0,4.0,5.0,3.0
+5 bedroom detached duplex for sale,"Chevron, Lekki, Lagos","₦390,000,000",5.0,5.0,6.0,3.0
+5 bedroom detached duplex for sale,"Lukosi, Ijeun Titun, Abeokuta South, Ogun","₦30,000,000",5.0,5.0,5.0,
+6 bedroom detached duplex for sale,"Naf Valley Estate, Asokoro District, Abuja","₦900,000,000",6.0,7.0,7.0,
+4 bedroom terraced duplex for sale,"South West, Ikoyi, Lagos","₦500,000,000",4.0,3.0,5.0,
+Residential land for sale,"Gilmor, Jahi, Abuja","₦650,000,000",,,,
+Mixed-use land for sale,"Okenla Epe Via Tomoba Epe, Epe, Lagos","₦1,500,000",,,,
+4 bedroom semi-detached duplex for sale,"New Road Chevron, Lekki, Lagos","₦180,000,000",4.0,,5.0,
+4 bedroom detached duplex for sale,"Ogba, Ikeja, Lagos","₦320,000,000",4.0,4.0,5.0,
+5 bedroom detached duplex for sale,"Banana Island, Ikoyi, Lagos","₦3,000,000,000",5.0,,,
+2 bedroom block of flats for sale,"Aguda, Surulere, Lagos","₦150,000,000",2.0,1.0,1.0,
+4 bedroom semi-detached duplex for sale,"Harmony Estate, Magodo Gra, GRA Phase 1, Magodo, Lagos","₦250,000,000",4.0,4.0,5.0,4.0
+4 bedroom semi-detached duplex for sale,"GRA Phase 1, Magodo, Lagos","₦220,000,000",4.0,4.0,5.0,
+Block of flats for sale,"Abule Egba, Agege, Lagos","₦50,000,000",,,,
+5 bedroom house for sale,"Ugbiyoko Community, Upper Ekenwan Road., Benin, Oredo, Edo","₦22,000,000",5.0,,,
+3 bedroom block of flats for sale,"Beside Nicon Town Ikate, Ikate, Lekki, Lagos","₦85,000,000",3.0,3.0,3.0,
+4 bedroom terraced duplex for sale,"Ikate, Lekki, Lagos","₦350,000,000",4.0,4.0,5.0,2.0
+2 bedroom flat / apartment for sale,"Ikate, Lekki, Lagos","₦200,000,000",2.0,2.0,3.0,2.0
+2 bedroom block of flats for sale,"Ikate Lekki, Ikate, Lekki, Lagos","₦100,000,000",2.0,2.0,3.0,
+4 bedroom detached duplex for sale,"Gbagada, Lagos","₦370,000,000",4.0,4.0,5.0,
+2 bedroom block of flats for sale,"Surulere, Surulere, Lagos","₦95,000,000",2.0,2.0,2.0,1.0
+5 bedroom detached duplex for sale,"Chevron Lekki Lagos, Lekki, Lagos","₦400,000,000",5.0,5.0,5.0,4.0
+Commercial property for sale,"Victoria Island (VI), Lagos","₦4,000,000,000",,,,
+4 bedroom semi-detached duplex for sale,"Omole Phase 1 Ikeja, Ikeja, Lagos","₦220,000,000",4.0,4.0,5.0,4.0
+2 bedroom block of flats for sale,"2nd Toll Gate, Lekki, Lekki, Lagos","₦65,000,000",2.0,2.0,2.0,2.0
+2 bedroom flat / apartment for sale,"Ologolo, Lekki, Lagos","₦60,000,000",2.0,2.0,,
+5 bedroom detached duplex for sale,"Ajah, Lagos","₦320,000,000",5.0,5.0,5.0,4.0
+4 bedroom semi-detached duplex for sale,"Chevron Estate, Lekki, Lagos","₦280,000,000",4.0,4.0,5.0,5.0
+4 bedroom terraced duplex for sale,"Lekki Phase 1, Lekki, Lagos","₦285,000,000",4.0,4.0,5.0,
+5 bedroom detached duplex for sale,"Banana Island, Ikoyi, Lagos","$3,500,000",5.0,5.0,6.0,4.0
+Block of flats for sale,"Location* :market Square Bstop  *title* :cofo   *price* :90m, Ago Palace, Isolo, Lagos","₦90,000,000",,,,
+4 bedroom terraced duplex for sale,"Ikota, VGC, Lekki, Lagos","₦110,000,000",4.0,4.0,5.0,2.0
+3 bedroom flat / apartment for sale,"Abijo, Abijo, Lekki, Lagos","₦45,000,000",3.0,3.0,4.0,4.0
+3 bedroom terraced duplex for sale,"Olive Park Estate After Lbs, Off Lekki - Epe Expressway, Lagos, Olokonla, Ajah, Lagos","₦120,000,000",3.0,3.0,4.0,
+36 bedroom block of flats for sale,"Abidjan Street, Wuse, Abuja","₦3,800,000,000",36.0,21.0,22.0,15.0
+Residential land for sale,"Maven Estate Phase 2, Epe, Lagos","₦900,000",,,,3.0
+Residential land for sale,"Surulere, Lagos","₦400,000,000",,,,
+1 bedroom flat / apartment for sale,"Ologolo, Lekki, Lagos","₦75,000,000",1.0,1.0,2.0,
+Mixed-use land for sale,"Access To 3 Major Landmarks, Epe, Lagos","₦3,000,000",,,,
+Mixed-use land for sale,"Maryland, Lagos","₦500,000,000",,,,
+4 bedroom semi-detached duplex for sale,"Victoria Island (VI), Lagos","₦650,000,000",4.0,5.0,4.0,2.0
+4 bedroom semi-detached duplex for sale,"Ajah, Lagos","₦150,000,000",4.0,,,
+4 bedroom detached duplex for sale,"Superbly Built 4 Bedroom Detached Home, Ajah, Lagos","₦170,000,000",4.0,,,
+2 bedroom terraced duplex for sale,"Ajah, Lagos","₦60,000,000",2.0,,,
+3 bedroom detached duplex for sale,"Magodo, Lagos","₦120,000,000",3.0,3.0,4.0,
+5 bedroom detached duplex for sale,"Lekki, Lagos","₦430,000,000",5.0,5.0,6.0,
+3 bedroom block of flats for sale,"Ifako-Ijaiye, Lagos","₦120,000,000",3.0,1.0,1.0,
+Block of flats for sale,"Federal Housing Estate, Ikorodu, Lagos","₦100,000,000",,,,
+16 bedroom flat / apartment for sale,"Lekki Phase 1, Lekki, Lagos","₦2,000,000,000",16.0,16.0,24.0,14.0
+4 bedroom house for sale,"Lekki Phase 1, Lekki, Lagos","₦380,000,000",4.0,4.0,5.0,2.0
+4 bedroom terraced duplex for sale,"Lekki Foreshore, Off Freedom Way, Lekki Phase 1, Lekki, Lagos","₦400,000,000",4.0,4.0,5.0,
+5 bedroom detached duplex for sale,"Lekki Foreshore, Off Freedom Way, Lekki Phase 1, Lekki, Lagos","₦700,000,000",5.0,5.0,6.0,4.0
+4 bedroom terraced duplex for sale,"Off Freedom Way, Lekki Phase 1, Lekki, Lagos","₦380,000,000",4.0,5.0,5.0,
+4 bedroom terraced duplex for sale,"Lekki Phase 1, Lekki, Lagos","₦410,000,000",4.0,4.0,5.0,
+4 bedroom terraced duplex for sale,"Lekki Phase 1, Lekki, Lagos","₦285,000,000",4.0,4.0,5.0,
+6 bedroom detached duplex for sale,"This Tastefully Designed Home Comes With A Wet And Dry Kitchen, Lekki Phase 1, Lekki, Lagos","₦1,200,000,000",6.0,6.0,7.0,4.0
+3 bedroom flat / apartment for sale,"Oniru, Victoria Island, Oniru, Victoria Island (VI), Lagos","₦290,000,000",3.0,3.0,4.0,2.0
+4 bedroom semi-detached duplex for sale,"GRA, Ogudu, Lagos","₦250,000,000",4.0,4.0,4.0,
+4 bedroom detached duplex for sale,"VGC, Lekki, Lagos","₦230,000,000",4.0,4.0,5.0,
+Land for sale,"Inside Peninsula Garden Estate, Sangotedo, Ajah, Lagos","₦80,000,000",,,,
+Residential land for sale,"Beechwood Estate, Bogije, Ibeju Lekki, Lagos","₦50,000,000",,,,
+4 bedroom terraced duplex for sale,"Ikota, Lekki, Lagos","₦120,000,000",4.0,4.0,5.0,2.0
+4 bedroom detached duplex for sale,"Within The Highly Sought After Oral Estate. Chevron Toll Gate, Ikota, Lekki, Lagos","₦355,000,000",4.0,4.0,5.0,5.0
+3 bedroom flat / apartment for sale,"Prime Water Gardens Estate, Ikate, Lekki, Lagos","₦110,000,000",3.0,4.0,3.0,
+4 bedroom terraced duplex for sale,"Off Awolowo Road, Ikoyi, Lagos","₦500,000,000",4.0,5.0,5.0,3.0
+4 bedroom house for sale,"Oral Estate, Lekki, Lagos","₦132,000,000",4.0,4.0,6.0,3.0
+4 bedroom terraced duplex for sale,"Oral Estate, Lekki, Lagos","₦105,000,000",4.0,5.0,6.0,3.0
+3 bedroom terraced duplex for sale,"Ajah, Lagos","₦85,000,000",3.0,3.0,4.0,
+5 bedroom detached duplex for sale,"Off Admiralty, Lekki Phase 1, Lekki, Lagos","₦950,000,000",5.0,5.0,6.0,
+2 bedroom flat / apartment for sale,"Lekki Phase 1, Lekki, Lagos","₦280,000,000",2.0,2.0,3.0,1.0
+4 bedroom detached duplex for sale,"Lekki Phase 1, Lekki, Lagos","₦750,000,000",4.0,4.0,5.0,4.0
+1 bedroom flat / apartment for sale,"Oniru, Victoria Island (VI), Lagos","₦145,000,000",1.0,1.0,2.0,1.0
+5 bedroom detached duplex for sale,"Omole Phase 1, Ikeja, Lagos","₦460,000,000",5.0,5.0,5.0,
+Commercial property for sale,"Old Ikoyi, Ikoyi, Lagos","₦9,500,000,000",,,,
+3 bedroom detached bungalow for sale,"Idera Scheme Lekki Lagos, Eleko, Ibeju Lekki, Lagos","₦65,000,000",3.0,,,
+4 bedroom terraced duplex for sale,"Platinum Way, Jakande, Lekki, Lagos","₦300,000,000",4.0,4.0,5.0,3.0
+4 bedroom terraced duplex for sale,"Ikota, Lekki, Lagos","₦88,000,000",4.0,4.0,5.0,2.0
+Residential land for sale,"Apo/guzape, Apo Resettlement, Apo, Abuja","₦18,000,000",,,,
+4 bedroom terraced duplex for sale,"Ikate, Ikate, Lekki, Lagos","₦400,000,000",4.0,4.0,5.0,
+Residential land for sale,"Extension, Asokoro District, Abuja","₦1,100,000,000",,,,20.0
+3 bedroom detached bungalow for sale,"No. 472, Gana Street, Efab Queen Estate, Gwarinpa, Abuja","₦140,000,000",3.0,3.0,4.0,3.0
+3 bedroom flat / apartment for sale,"Victoria Island (VI), Lagos","₦300,000,000",3.0,3.0,4.0,2.0
+4 bedroom terraced duplex for sale,"Bera Estate By Chevron Drive, Lekki, Lagos","₦165,000,000",4.0,4.0,5.0,
+4 bedroom house for sale,"Ajah, Lagos","₦190,000,000",4.0,4.0,5.0,2.0
+Block of flats for sale,"Nnpc Bustop, Ikotun, Lagos","₦26,000,000",,,,
+5 bedroom detached duplex for sale,"Cluster B Seman Estate, Lugbe District, Abuja","₦180,000,000",5.0,5.0,6.0,3.0
+6 bedroom terraced duplex for sale,"Behind Belavue Estate Phase 3, Life Camp, Abuja","₦350,000,000",6.0,6.0,6.0,3.0
+Commercial land for sale,"Obafemi Owode, Obafemi Owode, Ogun","₦3,500,000,000",,,,
+1 bedroom flat / apartment for sale,"Lekki Phase 1, Lekki, Lagos","₦180,000,000",1.0,1.0,2.0,1.0
+4 bedroom terraced duplex for sale,"Lekki Phase 1, Lekki, Lagos","₦450,000,000",4.0,4.0,5.0,2.0
+4 bedroom house for sale,"Periwinkle Estate, Freedom Way, Lekki Phase 1, Lekki, Lagos","₦600,000,000",4.0,4.0,5.0,2.0
+5 bedroom detached duplex for sale,"Lekki Phase 1, Lekki, Lagos","₦1,100,000,000",5.0,5.0,6.0,
+5 bedroom detached duplex for sale,"Lekki Phase 1, Lekki, Lagos","₦550,000,000",5.0,5.0,6.0,
+5 bedroom detached duplex for sale,"Off Admiralty Way, Lekki Phase 1, Lekki, Lagos","₦900,000,000",5.0,6.0,6.0,
+5 bedroom detached duplex for sale,"Lekki Phase 2, Lekki, Lagos","₦850,000,000",5.0,5.0,6.0,
+5 bedroom detached duplex for sale,"Pinnock Beach Estate, Osapa, Lekki, Lagos","₦600,000,000",5.0,5.0,6.0,4.0
+5 bedroom detached duplex for sale,"This Mansion Comes With Olympic Sized Pool,private Elevator, VGC, Lekki, Lagos","₦900,000,000",5.0,5.0,6.0,6.0
+5 bedroom house for sale,"VGC, Lekki, Lagos","₦900,000,000",5.0,5.0,6.0,3.0
+5 bedroom detached duplex for sale,"Ologolo, Lekki, Lagos","₦360,000,000",5.0,5.0,6.0,
+3 bedroom flat / apartment for sale,"Old Ikoyi, Ikoyi, Lagos","₦11,000,000,000",3.0,3.0,4.0,2.0
+4 bedroom detached bungalow for sale,"7th Avenue, Off Obele Road, Badagry Expressway, Magbon, Badagry, Lagos","₦34,000,000",4.0,4.0,5.0,4.0
+4 bedroom semi-detached duplex for sale,"Ajah, Lagos","₦120,000,000",4.0,4.0,5.0,
+3 bedroom flat / apartment for sale,"Bush Street, Maryland, Lagos","₦200,000,000",3.0,3.0,4.0,2.0
+2 bedroom flat / apartment for sale,"Bush Street, Maryland, Lagos","₦170,000,000",2.0,2.0,3.0,2.0
+5 bedroom detached duplex for sale,"This Home Comes With A Private Cinema, Chevron Toll Gate, Orchid Road, Lekki, Lagos","₦340,000,000",5.0,5.0,6.0,4.0
+1 bedroom mini flat (room and parlour) for sale,"Ajah, Lagos","₦27,000,000",1.0,1.0,2.0,
+3 bedroom flat / apartment for sale,"Lekki Phase 1 To 2nd Toll Gate, Lekki, Lagos","₦65,000,000",3.0,3.0,4.0,
+5 bedroom detached duplex for sale,"Lekki, Lagos","₦730,000,000",5.0,5.0,6.0,
+2 bedroom flat / apartment for sale,"Lekki Phase 1, Lekki, Lagos","₦250,000,000",2.0,2.0,3.0,
+Residential land for sale,"Lekki Phase 1, Lekki, Lagos","₦750,000,000",,,,
+2 bedroom flat / apartment for sale,"Off Freedom Way, Lekki Phase 1, Lekki, Lagos","₦190,000,000",2.0,2.0,3.0,
+5 bedroom detached duplex for sale,"Lekki Phase 2, Lekki, Lagos","$1,000,000",5.0,5.0,6.0,
+5 bedroom detached duplex for sale,"Lekki Phase 2, Lekki, Lagos","₦350,000,000",5.0,5.0,6.0,
+3 bedroom detached duplex for sale,"GRA, Isheri North, Lagos","₦160,000,000",3.0,3.0,4.0,4.0
+5 bedroom detached duplex for sale,"Lekki County Homes Megamound Estate, Ikota, Lekki, Lagos","₦380,000,000",5.0,,,
+2 bedroom flat / apartment for sale,"Ikate Lekki Lagos, Ikate, Lekki, Lagos","₦180,000,000",2.0,3.0,3.0,5.0
+Residential land for sale,"Lai Fafowora Close, GRA Phase 2, Magodo, Lagos","₦100,000,000",,,,
+3 bedroom flat / apartment for sale,"Ogudu, Lagos","₦150,000,000",3.0,,,
+3 bedroom flat / apartment for sale,"By Firs Jabi, Dakibiyu, Abuja","₦62,000,000",3.0,4.0,4.0,2.0
+3 bedroom terraced duplex for sale,"In A Gated And Secured Estate, Ajah, Lagos","₦80,000,000",3.0,3.0,4.0,2.0
+5 bedroom detached duplex for sale,"Lekki, Lagos","₦400,000,000",5.0,5.0,5.0,4.0
+Land for sale,"Lekki Gardens Phase 2, Ajah, Lagos","₦50,000,000",,,,
+4 bedroom detached duplex for sale,"Ikota, Lekki, Lagos","₦250,000,000",4.0,4.0,5.0,2.0
+Land for sale,"Abraham Adesanya Estate, Ajah, Lagos","₦1,700,000,000",,,,
+4 bedroom detached duplex for sale,"Ajah, Lagos","₦150,000,000",4.0,4.0,4.0,2.0
+4 bedroom terraced duplex for sale,"By Mobile Filling Station, Gaduwa, Abuja","₦100,000,000",4.0,4.0,4.0,3.0
+4 bedroom semi-detached duplex for sale,"In A Gated And Secured Estate, Ajah, Lagos","₦12,000,000",4.0,4.0,5.0,3.0
+3 bedroom detached bungalow for sale,"Ogooluwa Behind Gof, Osogbo, Osun","₦60,000,000",3.0,,,
+5 bedroom detached duplex for sale,"Ikeja GRA, Ikeja, Lagos","₦700,000,000",5.0,5.0,6.0,5.0
+6 bedroom detached duplex for sale,"Ogba, Ikeja, Lagos","₦500,000,000",6.0,,,
+5 bedroom detached duplex for sale,"Adeniyi Jones, Ikeja, Lagos","₦350,000,000",5.0,,6.0,
+4 bedroom detached duplex for sale,"Opic, Isheri North, Lagos","₦250,000,000",4.0,4.0,5.0,3.0
+5 bedroom detached duplex for sale,"Lakeview Estate, Orchid, Lafiaji, Lekki, Lagos","₦215,000,000",5.0,6.0,6.0,5.0
+3 bedroom terraced duplex for sale,"Ikota, Lekki, Lagos","₦65,000,000",3.0,3.0,4.0,4.0
+3 bedroom terraced duplex for sale,"Ikota, Lekki, Lagos","₦75,000,000",3.0,3.0,3.0,
+5 bedroom detached duplex for sale,"Lekky County, By Megamond Estate, Ikota, Lekki, Lagos","₦410,000,000",5.0,5.0,6.0,5.0
+2 bedroom flat / apartment for sale,"Ikate, Lekki, Lagos","₦200,000,000",2.0,2.0,3.0,2.0
+2 bedroom flat / apartment for sale,"Ikate, Lekki, Lagos","₦150,000,000",2.0,2.0,3.0,2.0
+3 bedroom flat / apartment for sale,"Ikate, Lekki, Lagos","₦185,000,000",3.0,3.0,4.0,2.0
+4 bedroom house for sale,"Ajah, Lagos","₦150,000,000",4.0,4.0,5.0,4.0
+4 bedroom house for sale,"Lokogoma District, Abuja","₦250,000,000",4.0,4.0,5.0,5.0
+Residential land for sale,"Hutu Estate, Lugbe District, Abuja","₦5,400,000",,,,2.0
+5 bedroom detached duplex for sale,"Megamound Estate, Lekki, Lagos","₦500,000,000",5.0,5.0,6.0,5.0
+5 bedroom detached duplex for sale,"Isheri North, Lagos","₦190,000,000",5.0,5.0,6.0,5.0
+5 bedroom flat / apartment for sale,"Olawale Dawodu, Ikoyi, Lagos","$1,500,000",5.0,6.0,6.0,8.0
+4 bedroom semi-detached duplex for sale,"Anthony Maryland, Ikeja, Lagos","₦270,000,000",4.0,,5.0,
+Residential land for sale,"Karshi, Abuja","₦2,500,000",,,,
+Commercial land for sale,"Surulere, Lagos","₦700,000",,,,
+1 bedroom block of flats for sale,"Ikeja GRA, Ikeja, Lagos","₦200,000,000",1.0,1.0,2.0,2.0
+4 bedroom terraced duplex for sale,"Lekki Phase 1, Lekki, Lagos","₦350,000,000",4.0,4.0,4.0,
+3 bedroom block of flats for sale,"Off Freedom Way, Lekki Phase 1, Lekki, Lagos","₦250,000,000",3.0,3.0,4.0,4.0
+5 bedroom detached duplex for sale,"Crown Estate, Sangotedo, Ajah, Lagos","₦170,000,000",5.0,5.0,5.0,4.0
+4 bedroom semi-detached duplex for sale,"Carlton Gate Estate, Akobo, Ibadan, Oyo","₦190,000,000",4.0,4.0,5.0,
+5 bedroom detached duplex for sale,"Idado, Lekki, Lagos","₦460,000,000",5.0,5.0,6.0,2.0
+5 bedroom detached duplex for sale,"Idado, Lekki, Lagos","₦260,000,000",5.0,6.0,6.0,2.0
+4 bedroom detached duplex for sale,"Idado, Lekki, Lagos","₦230,000,000",4.0,5.0,5.0,4.0
+4 bedroom detached duplex for sale,"Olokonla, Ajah, Lagos","₦195,000,000",4.0,4.0,5.0,
+4 bedroom semi-detached duplex for sale,"Ikota Gra, Ikota, Lekki, Lagos","₦155,000,000",4.0,4.0,5.0,2.0
+4 bedroom semi-detached duplex for sale,"Ikota Gra, Ikota, Lekki, Lagos","₦175,000,000",4.0,4.0,5.0,2.0
+4 bedroom semi-detached duplex for sale,"Gra, Ikota, Lekki, Lagos","₦175,000,000",4.0,4.0,5.0,2.0
+2 bedroom flat / apartment for sale,"Ikota, Lekki, Lagos","₦63,000,000",2.0,2.0,3.0,2.0
+2 bedroom block of flats for sale,"Surulere, Lagos","₦85,000,000",2.0,2.0,3.0,2.0
+4 bedroom terraced duplex for sale,"(beside Lagos Business School (lbs), Ajah, Lagos","₦119,000,000",4.0,4.0,5.0,2.0
+5 bedroom detached duplex for sale,"Ajah, Lagos","₦250,000,000",5.0,5.0,6.0,3.0
+3 bedroom semi-detached duplex for sale,"Off Allen Avenue, Ikeja, Lagos","₦200,000,000",3.0,,4.0,
+4 bedroom terraced duplex for sale,"Monastery Road, Ajah, Lagos","₦120,000,000",4.0,4.0,5.0,2.0
+4 bedroom detached duplex for sale,"Chevron Tollgate, Lekki, Lagos","₦360,000,000",4.0,4.0,5.0,3.0
+5 bedroom detached duplex for sale,"Megamound, Lekki, Lagos","₦600,000,000",5.0,5.0,6.0,4.0
+4 bedroom semi-detached duplex for sale,"Ikeja GRA, Ikeja, Lagos","₦550,000,000",4.0,4.0,5.0,4.0
+5 bedroom detached duplex for sale,"Awuse Estate, Opebi, Ikeja, Lagos","₦500,000,000",5.0,5.0,6.0,7.0
+3 bedroom flat / apartment for sale,"Freedom Way, Lekki Phase 1, Lekki, Lagos","₦270,000,000",3.0,3.0,4.0,
+3 bedroom block of flats for sale,"Maruwa, Lekki Phase 1, Lekki, Lagos","₦1,200,000,000",3.0,3.0,4.0,
+5 bedroom detached duplex for sale,"Arcadia Grove Estate,, Osapa, Lekki, Lagos","₦800,000,000",5.0,5.0,6.0,4.0
+2 bedroom flat / apartment for sale,"Ikate Elegushi, Lekki, Lagos","₦130,000,000",2.0,,,
+Mixed-use land for sale,"Osborne 2, Osborne, Ikoyi, Lagos","₦1,100,000",,,,
+4 bedroom semi-detached duplex for sale,"Akora Estate, Adeniyi Jones, Ikeja, Lagos","₦285,000,000",4.0,4.0,5.0,4.0
+5 bedroom semi-detached duplex for sale,"Akora Estate, Adeniyi Jones, Ikeja, Lagos","₦350,000,000",5.0,5.0,6.0,4.0
+6 bedroom detached duplex for sale,"Ikota, Lekki, Lagos","₦550,000,000",6.0,6.0,7.0,
+4 bedroom terraced duplex for sale,"Extension Road, Ikota, Lekki, Lagos","₦80,000,000",4.0,5.0,5.0,2.0
+4 bedroom semi-detached duplex for sale,"GRA Phase 2, Magodo, Lagos","₦350,000,000",4.0,4.0,5.0,3.0
+Residential land for sale,"Asokoro Hilltop Extension, Asokoro District, Abuja","₦25,000,000",,,,
+5 bedroom semi-detached duplex for sale,"Cowrie Creek Estate, Lekki, Lagos","₦850,000,000",5.0,5.0,6.0,5.0
+3 bedroom block of flats for sale,"Millennium Estate, Gbagada, Lagos","₦150,000,000",3.0,3.0,4.0,2.0
+Residential land for sale,"By Pengassan Estate, Lokogoma District, Abuja","₦35,000,000",,,,
+2 bedroom flat / apartment for sale,"Hill View Estate, Life Camp, Abuja","₦250,000,000",2.0,2.0,2.0,
+2 bedroom detached bungalow for sale,"Laderin Housing Estate, Abeokuta South, Ogun","₦45,000,000",2.0,2.0,2.0,
+2 bedroom block of flats for sale,"Ajao Estate Close To Murtala Mohammed Airport, Ikeja, Lagos","₦100,000,000",2.0,,,
+Residential land for sale,"Kpeyegyi (landsjotter Estate), Kpeyegyi, Abuja","₦500,000",,,,
+4 bedroom detached duplex for sale,"Ogba, Ikeja, Lagos","₦230,000,000",4.0,5.0,5.0,3.0
+5 bedroom semi-detached duplex for sale,"Lekki Phase 1, Lekki, Lagos","₦600,000,000",5.0,6.0,6.0,3.0
+5 bedroom detached duplex for sale,"Lekki Phase 1, Lekki, Lagos","₦550,000,000",5.0,6.0,6.0,4.0
+4 bedroom semi-detached duplex for sale,"Lekki Phase 1, Lekki, Lagos","₦380,000,000",4.0,5.0,5.0,4.0
+6 bedroom semi-detached duplex for sale,"Lekki Phase 2, Lekki, Lagos","₦250,000,000",6.0,6.0,7.0,
+5 bedroom detached duplex for sale,"Osapa, Lekki, Lagos","₦450,000,000",5.0,5.0,5.0,
+2 bedroom flat / apartment for sale,"Ologolo, Lekki, Lagos","₦100,000,000",2.0,2.0,2.0,2.0
+4 bedroom semi-detached duplex for sale,"Ikota, Lekki, Lagos","₦155,000,000",4.0,4.0,4.0,2.0
+2 bedroom block of flats for sale,"Affordable Luxury Apartment, Ikate, Lekki, Lagos","₦85,000,000",2.0,2.0,3.0,2.0
+2 bedroom flat / apartment for sale,"Ikate, Lekki, Lagos","₦180,000,000",2.0,3.0,3.0,4.0
+4 bedroom terraced duplex for sale,"Ikate, Lekki, Lagos","₦400,000,000",4.0,4.0,4.0,2.0
+3 bedroom semi-detached duplex for sale,"Olowora, Magodo, Lagos","₦120,000,000",3.0,3.0,5.0,2.0
+4 bedroom semi-detached duplex for sale,"Chevron, Lekki, Lagos","₦185,000,000",4.0,4.0,5.0,3.0
+Residential land for sale,"Surulere, Lagos","₦300,000,000",,,,
+5 bedroom detached duplex for sale,"Ajah Lekk Lagos, Ajah, Lagos","₦260,000,000",5.0,5.0,6.0,5.0
+3 bedroom flat / apartment for sale,"Gbagada, Lagos","₦85,000,000",3.0,4.0,4.0,3.0
+5 bedroom detached duplex for sale,"Lekki, Lagos","₦350,000,000",5.0,5.0,6.0,
+Residential land for sale,"Along The Expressway, Awka, Anambra","₦18,000,000",,,,
+3 bedroom flat / apartment for sale,"Gbagada, Lagos","₦95,000,000",3.0,,,
+Office space for sale,"Victoria Island (VI), Lagos","$75,000,000",,,,
+4 bedroom semi-detached duplex for sale,"Ikeja GRA, Ikeja, Lagos","₦550,000,000",4.0,4.0,5.0,2.0
+4 bedroom detached duplex for sale,"Ogba, Ikeja, Lagos","₦240,000,000",4.0,5.0,5.0,4.0
+3 bedroom semi-detached duplex for sale,"Omole Phase 2, Ikeja, Lagos","₦130,000,000",3.0,3.0,4.0,2.0
+3 bedroom flat / apartment for sale,"Lekki Phase 1, Lekki, Lagos","₦2,200,000,000",3.0,3.0,4.0,
+3 bedroom block of flats for sale,"Lekki Phase 1, Lekki, Lagos","₦375,000,000",3.0,3.0,4.0,
+5 bedroom detached duplex for sale,"Omole Phase 1, Ikeja, Lagos","₦550,000,000",5.0,5.0,6.0,3.0
+3 bedroom semi-detached duplex for sale,"News Engineering Dawaki, Dawaki, Gwarinpa, Abuja","₦115,000,000",3.0,4.0,4.0,
+5 bedroom detached duplex for sale,"Megamound Estate, Ikota, Lekki, Lagos","₦400,000,000",5.0,5.0,6.0,
+4 bedroom detached duplex for sale,"Ikota, Lekki, Lagos","₦250,000,000",4.0,4.0,5.0,
+4 bedroom terraced duplex for sale,"Ikate Lekki Lagos, Ikate, Lekki, Lagos","₦300,000,000",4.0,5.0,5.0,3.0
+Residential land for sale,"Magodo Brooks Estate, GRA Phase 2, Magodo, Lagos","₦850,000,000",,,,22.0
+3 bedroom block of flats for sale,"Kofo Abayomi Street, Victoria Island (VI), Lagos","₦4,800,000,000",3.0,,,
+5 bedroom detached duplex for sale,"Megamound Estate, Lekki, Lagos","₦500,000,000",5.0,5.0,6.0,
+4 bedroom semi-detached duplex for sale,"Ajah, Lagos","₦145,000,000",4.0,4.0,5.0,
+3 bedroom semi-detached duplex for sale,"Chevron Drive, Lekki, Lagos","₦140,000,000",3.0,3.0,4.0,3.0
+4 bedroom terraced duplex for sale,"Tastefully Finished Luxury Home, Ikoyi, Lagos","₦350,000,000",4.0,4.0,5.0,3.0
+5 bedroom detached duplex for sale,"Ajah Lekk Lagos, Ajah, Lagos","₦280,000,000",5.0,5.0,6.0,4.0
+4 bedroom terraced duplex for sale,"Victoria Island (VI), Lagos","₦1,000,000,000",4.0,4.0,5.0,
+3 bedroom flat / apartment for sale,"Gbagada, Lagos","₦140,000,000",3.0,4.0,4.0,3.0
+3 bedroom block of flats for sale,"Fully Serviced Luxury Apartment, Chevron, Lekki, Lagos","₦135,000,000",3.0,3.0,4.0,2.0
+Mixed-use land for sale,"Adekunle Fajuyi, Ikeja GRA, Ikeja, Lagos","₦3,500,000,000",,,,
+2 bedroom flat / apartment for sale,"Opebi, Ikeja, Lagos","₦190,000,000",2.0,2.0,3.0,2.0
+4 bedroom terraced duplex for sale,"Allen, Ikeja, Lagos","₦200,000,000",4.0,4.0,5.0,2.0
+5 bedroom detached duplex for sale,"T F Kuboye Rd Pinnacle Petrol, Lekki Phase 1, Lekki, Lagos","₦500,000,000",5.0,6.0,6.0,10.0
+5 bedroom semi-detached duplex for sale,"Osapa, Lekki, Lagos","₦600,000,000",5.0,5.0,6.0,5.0
+Land for sale,"GRA, Ogudu, Lagos","₦220,000,000",,,,
+5 bedroom detached duplex for sale,"Adeniyi Jones, Ikeja, Lagos","₦370,000,000",5.0,5.0,6.0,3.0
+3 bedroom flat / apartment for sale,"Mart K Street, By Mart K Bus-stop, Off Isawo Road, Asolo, Agric, Ikoro, Agric, Ikorodu, Lagos","₦80,000,000",3.0,2.0,3.0,
+3 bedroom flat / apartment for sale,"Off Gerrard Road, Old Ikoyi, Ikoyi, Lagos","₦650,000,000",3.0,3.0,4.0,
+Mixed-use land for sale,"Off Ogombo Road, Ogombo, Ajah, Lagos","₦62,000,000",,,,
+2 bedroom block of flats for sale,"Ikate, Lekki, Lagos","₦120,000,000",2.0,2.0,2.0,2.0
+3 bedroom flat / apartment for sale,"Ikate Lekki Lagos, Ikate, Lekki, Lagos","₦450,000,000",3.0,4.0,4.0,5.0
+Mixed-use land for sale,"Facing Epe Expressway Beside Alaro City, Epe, Lagos","₦20,000,000",,,,
+5 bedroom flat / apartment for sale,"Saratu Ijaoba Street, Of Lasisi Ijaoba, Ilupeju Area, Ijede, Lagos","₦75,000,000",5.0,4.0,3.0,
+3 bedroom flat / apartment for sale,"Ikoyi, Lagos","$550,000",3.0,3.0,4.0,
+4 bedroom terraced duplex for sale,"Agege, Lagos","₦200,000,000",4.0,4.0,5.0,2.0
+3 bedroom block of flats for sale,"Yaba, Lagos","₦500,000,000",3.0,3.0,5.0,
+3 bedroom semi-detached duplex for sale,"Ikoyi, Lagos","₦900,000,000",3.0,3.0,5.0,
+4 bedroom semi-detached duplex for sale,"Ajah, Lagos","₦125,000,000",4.0,4.0,5.0,6.0
+4 bedroom semi-detached duplex for sale,"Chevron Drive Alternative, Lekki, Lagos","₦220,000,000",4.0,4.0,5.0,
+2 bedroom flat / apartment for sale,"Ogba, Ikeja, Lagos","₦100,000,000",2.0,2.0,3.0,2.0
+Residential land for sale,"Lekki Foreshore Estate, Lekki Phase 1, Lekki, Lagos","₦550,000",,,,
+Residential land for sale,"Mobil, Emerald Estate, Lekki Phase 2, Lekki, Lagos","₦200,000,000",,,,
+Residential land for sale,"Cowrie Creek Nlng Estate, Ikate Elegushi, Lekki, Lagos","₦620,000,000",,,,
+7 bedroom detached duplex for sale,"VGC, Lekki, Lagos","₦650,000,000",7.0,7.0,7.0,7.0
+Residential land for sale,"Diamond Estate, Monastery Road, Sangotedo, Ajah, Lagos","₦50,000,000",,,,
+Commercial land for sale,"Rain Oil Road Abijo Gra, Abijo, Lekki, Lagos","₦350,000,000",,,,
+3 bedroom detached bungalow for sale,"Lekki Avana Bungalows And Resort, Idera Scheme, Eleko, Ibeju Lekki, Lagos","₦65,000,000",3.0,3.0,3.0,
+5 bedroom detached duplex for sale,"Megamound Estate, Ikota, Lekki, Lagos","₦430,000,000",5.0,5.0,6.0,4.0
+Residential land for sale,"Freedom Way, Orange Island, Lekki, Lagos","₦320,000,000",,,,
+2 bedroom flat / apartment for sale,"Ikate Lekki Lagos, Ikate, Lekki, Lagos","₦145,000,000",2.0,3.0,3.0,5.0
+7 bedroom detached duplex for sale,"Diplomatic Zone, Asokoro District, Abuja","₦4,500,000,000",7.0,8.0,8.0,15.0
+2 bedroom block of flats for sale,"Diplomatic Zone, Asokoro District, Abuja","₦650,000,000",2.0,3.0,3.0,12.0
+Mixed-use land for sale,"Before Eleko Junction, Ibeju Lekki, Lagos","₦40,000,000",,,,
+Mixed-use land for sale,"Lekki, Lagos","₦450,000",,,,
+4 bedroom terraced duplex for sale,"Maryland, Lagos","₦200,000,000",4.0,4.0,5.0,2.0
+Mixed-use land for sale,"Surulere, Lagos","₦230,000,000",,,,
+Commercial land for sale,"Jabi Daikibiu ( By Code Of Conduct), Jabi, Abuja","₦1,200,000,000",,,,
+Shop for sale,"Goldie Street, Calabar, Cross River","₦6,000,000",,,,
+5 bedroom detached duplex for sale,"Lekki, Lagos","₦400,000,000",5.0,6.0,7.0,
+4 bedroom detached bungalow for sale,"Secured And Serene Area, Woji, Port Harcourt, Rivers","₦75,000,000",4.0,4.0,5.0,4.0
+Residential land for sale,"Alausa, Ikeja, Lagos","₦500,000,000",,,,
+Residential land for sale,"Ogba, Ikeja, Lagos","₦140,000,000",,,,
+Residential land for sale,"Oxford Heights Estate, Awoyaya, Ibeju Lekki, Lagos","₦6,500,000",,,,4.0
+3 bedroom block of flats for sale,"Seaside Estate, Badore, Ajah, Lagos","₦180,000,000",3.0,,,
+6 bedroom detached duplex for sale,"Off Bourdillon, Old Ikoyi, Ikoyi, Lagos","$1,700,000",6.0,6.0,5.0,
+Residential land for sale,"Zion C, Nicon Town, Nicon Town, Lekki, Lagos","₦800,000,000",,,,
+3 bedroom flat / apartment for sale,"Liberty Avenue, Maitama 2, Maitama District, Abuja","₦50,000,000",3.0,2.0,3.0,35.0
+Residential land for sale,"Oxford Heights Estate Face 2 Ibusa, Asaba, Delta","₦3,500,000",,,,4.0
+Residential land for sale,"Oxford Heights Estate Phase 2, Asaba, Delta","₦5,000,000",,,,
+2 bedroom house for sale,"Sunshine Estate, Off 69 Road, Gwarinpa, Abuja","₦85,000,000",2.0,2.0,3.0,
+4 bedroom house for sale,"Victoria Island (VI), Lagos","₦500,000,000",4.0,4.0,5.0,
+2 bedroom block of flats for sale,"Maryland, Lagos","₦100,000,000",2.0,2.0,,
+Land for sale,"Ilado, Omu Epe, Epe, Lagos","₦2,300,000",,,,
+Residential land for sale,"Off Awolowo Road, Ikoyi, Lagos","₦3,500,000,000",,,,
+3 bedroom flat / apartment for sale,"Maryland, Lagos","₦300,000,000",3.0,3.0,4.0,2.0
+Residential land for sale,"Ilado , Off Omu Epe - Ikorodu Road, Odogbolu, Ogun","₦2,300,000",,,,
+2 bedroom flat / apartment for sale,"By River Park Estate, Lugbe District, Abuja","₦60,000,000",2.0,2.0,3.0,
+Mixed-use land for sale,"Ado Odo Off Sokoto Road, Sango Ota, Ogun","₦2,500,000",,,,
+Mixed-use land for sale,"Epe, Lagos","₦2,300,000",,,,
+5 bedroom detached duplex for sale,"Ikeja GRA, Ikeja, Lagos","₦780,000,000",5.0,5.0,6.0,3.0
+4 bedroom detached duplex for sale,"Allen, Ikeja, Lagos","₦280,000,000",4.0,4.0,5.0,2.0
+4 bedroom terraced duplex for sale,"Lekki Phase 1, Lekki, Lagos","₦400,000,000",4.0,4.0,5.0,
+6 bedroom detached duplex for sale,"Lekki Phase 1, Lekki, Lagos","₦950,000,000",6.0,6.0,8.0,6.0
+4 bedroom terraced duplex for sale,"Lekki Phase 1, Lekki, Lagos","₦400,000,000",4.0,,,
+4 bedroom detached duplex for sale,"Northern Foreshore Estate, Chevron Drive, Agungi, Lekki, Lagos","₦440,000,000",4.0,3.0,4.0,7.0
+4 bedroom semi-detached duplex for sale,"Reside In Serenity 4 Bedroom Family Home Within A Secured Estate, Ikate Elegushi, Lekki, Lagos","₦315,000,000",4.0,4.0,5.0,3.0
+Residential land for sale,"Oniru, Victoria Island (VI), Lagos","₦1,000,000",,,,
+4 bedroom terraced duplex for sale,"Fully Serviced Luxury Family Home, Oniru, Victoria Island (VI), Lagos","₦295,000,000",4.0,4.0,5.0,2.0
+5 bedroom detached duplex for sale,"Banana Island, Ikoyi, Lagos","₦7,500,000,000",5.0,5.0,7.0,8.0
+5 bedroom detached duplex for sale,"VGC, Lekki, Lagos","₦900,000,000",5.0,5.0,6.0,5.0
+4 bedroom semi-detached duplex for sale,"Vgc Extension, VGC, Lekki, Lagos","₦250,000,000",4.0,4.0,5.0,
+4 bedroom semi-detached duplex for sale,"VGC, Lekki, Lagos","₦270,000,000",4.0,,,
+6 bedroom detached duplex for sale,"Akowonjo, Alimosho, Lagos","₦600,000,000",6.0,6.0,8.0,10.0
+4 bedroom house for sale,"Old Ikoyi, Ikoyi, Lagos","$1,200,000",4.0,4.0,5.0,
+5 bedroom detached duplex for sale,"GRA Phase 2, Magodo, Lagos","₦650,000,000",5.0,5.0,6.0,3.0
+3 bedroom detached bungalow for sale,"Eleko, Lekki, Lagos","₦65,000,000",3.0,3.0,3.0,
+4 bedroom semi-detached duplex for sale,"Ikota, Lekki, Lagos","₦180,000,000",4.0,4.0,5.0,4.0
+Residential land for sale,"Chevron, Lekki Phase1, Lekki, Lagos","₦90,000,000",,,,
+4 bedroom terraced duplex for sale,"Lekki, Ajah, Lagos","₦100,000,000",4.0,4.0,5.0,3.0
+4 bedroom semi-detached duplex for sale,"Ikeja GRA, Ikeja, Lagos","₦650,000,000",4.0,4.0,5.0,4.0
+5 bedroom detached duplex for sale,"Lekki Phase 1, Lekki, Lagos","₦900,000,000",5.0,5.0,6.0,8.0
+4 bedroom detached duplex for sale,"Lekki Phase 1, Lekki, Lagos","₦650,000,000",4.0,4.0,5.0,3.0
+4 bedroom house for sale,"Orchid, Lekki Phase 2, Lekki, Lagos","₦130,000,000",4.0,4.0,5.0,
+3 bedroom flat / apartment for sale,"Ikate Elegushi, Lekki, Lagos","₦250,000,000",3.0,3.0,4.0,2.0
+3 bedroom flat / apartment for sale,"Banana Island, Ikoyi, Lagos","₦1,000,000,000",3.0,3.0,4.0,2.0
+3 bedroom flat / apartment for sale,"Banana Island, Ikoyi, Lagos","₦840,000,000",3.0,3.0,4.0,2.0
+Commercial land for sale,"Oribanwa Ibeju-lekki, Awoyaya, Ibeju Lekki, Lagos","₦300,000,000",,,,
+6 bedroom flat / apartment for sale,"Old Ikoyi, Ikoyi, Lagos","₦3,500,000,000",6.0,6.0,7.0,4.0
+3 bedroom flat / apartment for sale,"Old Ikoyi, Ikoyi, Lagos","₦1,200,000,000",3.0,3.0,4.0,2.0
+4 bedroom detached duplex for sale,"Ikota, Lekki, Lagos","₦260,000,000",4.0,4.0,5.0,5.0
+4 bedroom semi-detached duplex for sale,"Ikota, Lekki, Lagos","₦135,000,000",4.0,5.0,5.0,4.0
+3 bedroom flat / apartment for sale,"Eko Atlantic City, Lagos","₦2,100,000,000",3.0,3.0,4.0,2.0
+Mixed-use land for sale,"Victoria Island (VI), Lagos","₦1,800,000",,,,
+4 bedroom semi-detached duplex for sale,"Gbagada, Lagos","₦280,000,000",4.0,4.0,5.0,2.0
+Residential land for sale,"Ikoyi, Lagos","₦1,380,000",,,,
+4 bedroom terraced duplex for sale,"Ultra Luxury Super Modern Home, Ikoyi, Lagos","$750,000",4.0,4.0,5.0,3.0
+5 bedroom detached duplex for sale,"Within A Serviced, Call To Access, Serene Estate, Chevron, Lekki, Lagos","₦690,000,000",5.0,5.0,6.0,4.0
+Office space for sale,"Victoria Island (VI), Lagos","₦9,500,000,000",,,,28.0
+3 bedroom terraced duplex for sale,"General Paint By Lbs, Ajah, Lagos","₦58,000,000",3.0,3.0,4.0,4.0
+4 bedroom detached duplex for sale,"Agbara Residential Estate, Agbara, Ado-Odo/Ota, Ogun","₦180,000,000",4.0,3.0,4.0,5.0
+5 bedroom hotel / guest house for sale,"Fred Williams Street, Ogba, Ikeja, Lagos","₦200,000,000",5.0,,18.0,12.0
+Residential land for sale,"Lekki Phase 1, Lekki, Lagos","₦960,000,000",,,,
+4 bedroom terraced duplex for sale,"Lekki Phase 2, Lekki, Lagos","₦100,000,000",4.0,4.0,5.0,
+Residential land for sale,"Lekki Phase 2, Lekki, Lagos","₦68,000,000",,,,
+3 bedroom flat / apartment for sale,"Osapa, Lekki, Lagos","₦135,000,000",3.0,3.0,4.0,2.0
+4 bedroom terraced duplex for sale,"Ikate Elegushi, Lekki, Lagos","₦300,000,000",4.0,4.0,5.0,2.0
+5 bedroom terraced duplex for sale,"Banana Island, Ikoyi, Lagos","₦2,900,000,000",5.0,5.0,6.0,4.0
+6 bedroom detached duplex for sale,"Banana Island, Ikoyi, Lagos","₦7,500,000,000",6.0,6.0,7.0,6.0
+4 bedroom detached duplex for sale,"Ikota, Lekki, Lagos","₦130,000,000",4.0,5.0,5.0,3.0
+4 bedroom terraced duplex for sale,"Ikota, Lekki, Lagos","₦80,000,000",4.0,4.0,5.0,2.0
+Residential land for sale,"Block 3a, Phase 2, Orange Island, Lekki, Lagos","₦350,000,000",,,,
+Residential land for sale,"Block 5a, Phase 2, Orange Island, Lekki, Lagos","₦550,000,000",,,,
+Residential land for sale,"Block 15, Phase 1, Orange Island, Lekki, Lagos","₦370,000,000",,,,
+3 bedroom flat / apartment for sale,"Victoria Island (VI), Lagos","₦600,000,000",3.0,3.0,4.0,2.0
+3 bedroom flat / apartment for sale,"Victoria Island (VI), Lagos","₦450,000,000",3.0,3.0,4.0,2.0
+3 bedroom flat / apartment for sale,"1004 Estate, Victoria Island (VI), Lagos","₦220,000,000",3.0,2.0,3.0,2.0
+4 bedroom semi-detached duplex for sale,"Gbagada, Lagos","₦280,000,000",4.0,4.0,5.0,2.0
+4 bedroom detached duplex for sale,"Ultra Luxury Super Modern Home, Orchid, Lekki, Lagos","₦260,000,000",4.0,4.0,5.0,3.0
+4 bedroom house for sale,"Off Ahmadu Aliero Crescent, Guzape District, Abuja","₦320,000,000",4.0,4.0,4.0,1.0
+2 bedroom flat / apartment for sale,"Ogba, Ikeja, Lagos","₦125,000,000",2.0,2.0,3.0,2.0
+5 bedroom detached duplex for sale,"Lekki Phase 1, Lekki, Lagos","₦1,300,000,000",5.0,5.0,6.0,
+5 bedroom semi-detached duplex for sale,"Orchid Road, Lekki Phase 2, Lekki, Lagos","₦250,000,000",5.0,5.0,6.0,
+4 bedroom detached duplex for sale,"Orchid Road, Lekki Phase 2, Lekki, Lagos","₦200,000,000",4.0,4.0,5.0,
+5 bedroom terraced duplex for sale,"Banana Island, Ikoyi, Lagos","$1,500,000",5.0,5.0,6.0,3.0
+6 bedroom detached duplex for sale,"Ultra Modern Luxury Waterfront Villa, Banana Island, Ikoyi, Lagos","$4,500,000",6.0,6.0,7.0,6.0
+4 bedroom semi-detached duplex for sale,"Anthony, Maryland, Lagos","₦240,000,000",4.0,4.0,5.0,2.0
+4 bedroom detached duplex for sale,"Abule Egba, Agege, Lagos","₦220,000,000",4.0,4.0,5.0,2.0
+4 bedroom terraced duplex for sale,"VGC, Lekki, Lagos","₦100,000,000",4.0,5.0,5.0,3.0
+Shop for sale,"Inside Aos Mall, Adeniran Ogunsanya, Surulere, Lagos","₦27,000,000",,,,
+4 bedroom semi-detached duplex for sale,"Ikota, Lekki, Lagos","₦130,000,000",4.0,5.0,5.0,3.0
+4 bedroom semi-detached duplex for sale,"Ikota, Lekki, Lagos","₦200,000,000",4.0,4.0,5.0,5.0
+Plaza / complex / mall for sale,"Kubwa Expressway, Karsana North, Karsana, Abuja","₦1,500,000",,,,
+4 bedroom detached duplex for sale,"GRA Phase 2, Magodo, Lagos","₦320,000,000",4.0,4.0,5.0,2.0
+4 bedroom detached duplex for sale,"Lekki, Lagos","₦300,000,000",4.0,4.0,5.0,
+3 bedroom semi-detached duplex for sale,"Magodo, Lagos","₦120,000,000",3.0,3.0,4.0,3.0
+3 bedroom detached bungalow for sale,"Mowe Ofada, Ogun","₦55,000,000",3.0,5.0,4.0,5.0
+5 bedroom detached duplex for sale,"Amuwo Odofin, Lagos","₦380,000,000",5.0,5.0,6.0,5.0
+4 bedroom semi-detached duplex for sale,"Lekki, Lagos","₦250,000,000",4.0,4.0,5.0,
+3 bedroom terraced duplex for sale,"Orchid, Lekki, Lagos","₦80,000,000",3.0,4.0,4.0,3.0
+3 bedroom flat / apartment for sale,"Ikeja GRA, Ikeja, Lagos","₦520,000,000",3.0,3.0,4.0,2.0
+4 bedroom terraced duplex for sale,"Ikeja GRA, Ikeja, Lagos","₦380,000,000",4.0,4.0,5.0,4.0
+4 bedroom terraced duplex for sale,"Lekki Phase 1, Lekki, Lagos","₦500,000,000",4.0,4.0,5.0,
+2 bedroom flat / apartment for sale,"Lekki Phase 1, Lekki, Lagos","₦250,000,000",2.0,2.0,3.0,2.0
+4 bedroom detached duplex for sale,"Banana Island, Ikoyi, Lagos","₦3,000,000,000",4.0,4.0,5.0,
+4 bedroom terraced duplex for sale,"GRA, Ogudu, Lagos","₦180,000,000",4.0,4.0,5.0,5.0
+Residential land for sale,"Ocean View Phase 2, Sangotedo, Ajah, Lagos","₦29,750,000",,,,4.0
+4 bedroom terraced duplex for sale,"Akora Estate, Adeniyi Jones, Ikeja, Lagos","₦230,000,000",4.0,4.0,5.0,2.0
+6 bedroom detached duplex for sale,"Old Ikoyi, Ikoyi, Lagos","$1,700,000",6.0,6.0,7.0,3.0
+2 bedroom flat / apartment for sale,"Oribanwa, Ibeju Lekki, Lagos","₦35,000,000",2.0,2.0,,
+4 bedroom detached duplex for sale,"Ikota, Lekki, Lagos","₦230,000,000",4.0,4.0,5.0,6.0
+3 bedroom terraced duplex for sale,"Ikota, Lekki, Lagos","₦65,000,000",3.0,,,
+4 bedroom terraced duplex for sale,"Ikate, Lekki, Lagos","₦185,000,000",4.0,4.0,5.0,
+Residential land for sale,"Epe, Lagos","₦3,000,000",,,,
+4 bedroom terraced duplex for sale,"Orchid Road, Lekki, Lagos","₦90,000,000",4.0,4.0,5.0,
+Residential land for sale,"Idera Scheme, Ibeju Lekki, Lagos","₦40,000,000",,,,
+Residential land for sale,"Oxford Heights Estate Phase 1, Asaba, Delta","₦9,000,000",,,,4.0
+Residential land for sale,"Kingsville Phase 2, Epe, Lagos","₦3,500,000",,,,
+4 bedroom detached duplex for sale,"Maryland, Lagos","₦270,000,000",4.0,4.0,5.0,2.0
+4 bedroom terraced duplex for sale,"By Galadinmawa Roundabout, Galadimawa, Abuja","₦160,000,000",4.0,5.0,5.0,4.0
+5 bedroom detached duplex for sale,"Omole Phase 2, Ikeja, Lagos","₦640,000,000",5.0,5.0,6.0,4.0
+Residential land for sale,"Ikate Elegushi, Lekki, Lagos","₦720,000,000",,,,
+Mixed-use land for sale,"By City Of David, Oniru, Victoria Island (VI), Lagos","₦950,000",,,,
+5 bedroom detached duplex for sale,"Banana Island, Ikoyi, Lagos","$4,500,000",5.0,5.0,6.0,
+5 bedroom detached duplex for sale,"Omole Phase 1, Ikeja, Lagos","₦550,000,000",5.0,,6.0,
+4 bedroom semi-detached duplex for sale,"Ologolo, Lekki, Lagos","₦220,000,000",4.0,5.0,5.0,3.0
+6 bedroom detached duplex for sale,"Nicon Town, Lekki, Lagos","₦1,680,000,000",6.0,6.0,7.0,
+5 bedroom detached duplex for sale,"Ikota, Lekki, Lagos","₦420,000,000",5.0,5.0,6.0,4.0
+5 bedroom detached duplex for sale,"Ikota, Lekki, Lagos","₦250,000,000",5.0,5.0,6.0,8.0
+4 bedroom semi-detached duplex for sale,"Ikota, Lekki, Lagos","₦140,000,000",4.0,4.0,4.0,2.0
+5 bedroom detached duplex for sale,"Ikota, Lekki, Lagos","₦260,000,000",5.0,5.0,6.0,4.0
+5 bedroom detached duplex for sale,"Off Orchid Road 2nd Toll Gate, Lekki, Lagos","₦245,000,000",5.0,5.0,6.0,4.0
+Commercial land for sale,"Along Ozumba Mbadiwe, Victoria Island (VI), Lagos","$25,000,000",,,,
+5 bedroom detached duplex for sale,"Osongama Estate, Uyo, Akwa Ibom","₦350,000,000",5.0,5.0,6.0,
+3 bedroom flat / apartment for sale,"Azuri Towers, Eko Atlantic City, Lagos","$1,000,000",3.0,4.0,4.0,
+3 bedroom semi-detached duplex for sale,"Orchid, Lekki, Lagos","₦105,000,000",3.0,3.0,4.0,2.0
+4 bedroom detached duplex for sale,"Atlantic Nominee Estate General Paint, Ajah, Lagos","₦130,000,000",4.0,4.0,5.0,3.0
+5 bedroom terraced duplex for sale,"Chevron, Lekki, Lagos","₦170,000,000",5.0,5.0,6.0,2.0
+Mixed-use land for sale,"Palace Courts Estate, Along Airport Road, Ngor Okpala, Imo","₦7,000,000",,,,
+7 bedroom detached duplex for sale,"Maitama District, Abuja","₦3,000,000,000",7.0,,,
+4 bedroom terraced duplex for sale,"Lekki Phase 1, Lekki, Lagos","₦450,000,000",4.0,4.0,5.0,2.0
+3 bedroom flat / apartment for sale,"Lekki Phase 1, Lekki, Lagos","₦190,000,000",3.0,3.0,4.0,
+4 bedroom terraced duplex for sale,"Lekki Phase 1, Lekki, Lagos","₦410,000,000",4.0,5.0,5.0,3.0
+Residential land for sale,"Off Ondo Street, Banana Island, Ikoyi, Lagos","₦4,500,000,000",,,,
+3 bedroom terraced duplex for sale,"Ajayi Apata, Sangotedo, Ajah, Lagos","₦95,000,000",3.0,3.0,4.0,3.0
+Commercial land for sale,"Monastery Road, Lekki - Calabar Coastal Road, Sangotedo, Ajah, Lagos","₦40,000,000",,,,
+6 bedroom house for sale,"Old Ikoyi, Ikoyi, Lagos","$2,500,000",6.0,,6.0,
+Mixed-use land for sale,"Old Ikoyi, Ikoyi, Lagos","₦3,000,000",,,,
+Mixed-use land for sale,"Zion Gardens Estate, Umuashibogu Farm Road, Eneka, Port Harcourt, Rivers","₦4,700,000",,,,
+4 bedroom detached duplex for sale,"Opic, Isheri North, Lagos","₦190,000,000",4.0,4.0,4.0,
+4 bedroom semi-detached duplex for sale,"Westend Estate, Ikota, Lekki, Lagos","₦120,000,000",4.0,4.0,5.0,3.0
+4 bedroom semi-detached duplex for sale,"Westend Estate, Ikota, Lekki, Lagos","₦120,000,000",4.0,4.0,5.0,3.0
+4 bedroom semi-detached duplex for sale,"Ikota Gra, Ikota, Lekki, Lagos","₦135,000,000",4.0,4.0,5.0,3.0
+4 bedroom terraced duplex for sale,"Oba Avenue, Ikota, Lekki, Lagos","₦135,000,000",4.0,4.0,5.0,2.0
+4 bedroom terraced duplex for sale,"Oba Avenue, Ikota, Lekki, Lagos","₦135,000,000",4.0,4.0,5.0,2.0
+4 bedroom terraced duplex for sale,"Ikate, Lekki, Lagos","₦300,000,000",4.0,4.0,5.0,2.0
+3 bedroom flat / apartment for sale,"Gbagada, Lagos","₦140,000,000",3.0,3.0,3.0,
+Land for sale,"Amen Estate 2, Ibeju Lekki, Lagos","₦75,000,000",,,,
+2 bedroom flat / apartment for sale,"Chevron Drive,, Lekki, Lagos","₦70,000,000",2.0,2.0,3.0,2.0
+Mixed-use land for sale,"Omo Adio Ido Expressroad, Ibadan, Oyo","₦2,000,000",,,,
+2 bedroom flat / apartment for sale,"Ogba, Ikeja, Lagos","₦125,000,000",2.0,2.0,2.0,
+4 bedroom detached duplex for sale,"Ogba, Ikeja, Lagos","₦300,000,000",4.0,4.0,4.0,
+Residential land for sale,"Off 3rd Avenue, Banana Island, Ikoyi, Lagos","₦3,100,000",,,,
+5 bedroom detached duplex for sale,"Omole Phase 1, Ikeja, Lagos","₦550,000,000",5.0,5.0,5.0,
+Residential land for sale,"Opp Power Station, Katampe (Main), Katampe, Abuja","₦35,000,000",,,,5.0
+4 bedroom terraced duplex for sale,"Ikota, Lekki, Lagos","₦85,000,000",4.0,4.0,5.0,2.0
+4 bedroom terraced duplex for sale,"Westend Estate, Ikota, Lekki, Lagos","₦95,000,000",4.0,4.0,6.0,2.0
+5 bedroom semi-detached duplex for sale,"Westend Estate, Ikota, Lekki, Lagos","₦165,000,000",5.0,5.0,6.0,3.0
+5 bedroom semi-detached duplex for sale,"Westend Estate, Ikota, Lekki, Lagos","₦165,000,000",5.0,5.0,6.0,3.0
+Residential land for sale,"FO1 Layout, Kubwa, Abuja","₦22,000,000",,,,4.0
+Residential land for sale,"Infinite Grande Homes, FO1 Layout, Kubwa, Abuja","₦33,750,000",,,,5.0
+5 bedroom detached duplex for sale,"GRA Phase 2, Magodo, Lagos","₦800,000,000",5.0,5.0,5.0,
+4 bedroom detached duplex for sale,"GRA Phase 2, Magodo, Lagos","₦500,000,000",4.0,4.0,4.0,
+4 bedroom detached duplex for sale,"GRA Phase 2, Magodo, Lagos","₦450,000,000",4.0,4.0,4.0,
+4 bedroom semi-detached duplex for sale,"Thomas Estate, Ajah, Lagos","₦95,000,000",4.0,4.0,5.0,4.0
+Residential land for sale,"Library Junction, Before Kubwa Train Station, Kubwa, Abuja","₦37,200,000",,,,4.0
+Residential land for sale,"Atan Otta, Sango Ota, Ogun","₦2,500,000",,,,
+Mixed-use land for sale,"Ozumba Mbadiwe, Victoria Island (VI), Lagos","$25,000,000",,,,
+5 bedroom detached duplex for sale,"Chevron Alternative, Lekki, Lagos","₦690,000,000",5.0,5.0,6.0,4.0
+5 bedroom detached duplex for sale,"Chevron Alternative, Lekki, Lagos","₦690,000,000",5.0,5.0,6.0,4.0
+Residential land for sale,"Castle And Temple Street, Lekki Phase 1, Lekki, Lagos","₦900,000",,,,
+3 bedroom detached bungalow for sale,"Lekki Expressway, Lekki, Lagos","₦58,000,000",3.0,3.0,4.0,
+5 bedroom detached duplex for sale,"Pinnock Beach Estate, Osapa, Lekki, Lagos","₦700,000,000",5.0,5.0,6.0,5.0
+Residential land for sale,"Northgate Estate Opposite Fara Park By Majek Bus Stop Lekki Epe Expres, Sangotedo, Ajah, Lagos","₦10,500,000",,,,6.0
+3 bedroom detached bungalow for sale,"Adjacent New Lekki International Airport By Idera Scheme, Eleko, Ibeju Lekki, Lagos","₦58,000,000",3.0,3.0,4.0,4.0
+4 bedroom terraced duplex for sale,"Ikate, Lekki, Lagos","₦350,000,000",4.0,,5.0,
+4 bedroom detached duplex for sale,"Orchid Road, Lekki, Lagos","₦170,000,000",4.0,4.0,5.0,3.0
+Residential land for sale,"10 Minutes Away From Magodo Phase 2, Berger, Arepo, Ogun","₦25,000,000",,,,
+4 bedroom semi-detached duplex for sale,"Maryland, Lagos","₦270,000,000",4.0,4.0,4.0,
+1 bedroom house for sale,"10 Minutes From Airport, Aviation Village, Off Centenary City, Kyami, Abuja","₦16,490,880",1.0,1.0,2.0,
+Mixed-use land for sale,"Off Glover Road By Ikoyi Gold Course, Ikoyi, Lagos","₦2,000,000",,,,
+4 bedroom detached duplex for sale,"Orchid Road, Lekki, Lagos","₦155,000,000",4.0,4.0,5.0,4.0
+5 bedroom detached duplex for sale,"Chevron Alternative, Lekki, Lagos","₦400,000,000",5.0,5.0,6.0,3.0
+5 bedroom detached duplex for sale,"Chevron Alternative, Lekki, Lagos","₦400,000,000",5.0,5.0,6.0,3.0
+5 bedroom detached duplex for sale,"Chevron Alternative, Lekki, Lagos","₦450,000,000",5.0,5.0,6.0,2.0
+5 bedroom detached duplex for sale,"Chevron Alternative, Lekki, Lagos","₦450,000,000",5.0,5.0,6.0,2.0
+5 bedroom detached duplex for sale,"Chevron Alternative, Lekki, Lagos","₦400,000,000",5.0,5.0,6.0,3.0
+5 bedroom detached duplex for sale,"Chevron Alternative, Lekki, Lagos","₦400,000,000",5.0,5.0,6.0,3.0
+5 bedroom detached duplex for sale,"Chevron Alternative, Lekki, Lagos","₦420,000,000",5.0,5.0,6.0,3.0
+5 bedroom detached duplex for sale,"Chevron Alternative, Lekki, Lagos","₦420,000,000",5.0,5.0,6.0,3.0
+3 bedroom terraced duplex for sale,"Omole Phase 2 Estate,, Omole Phase 2, Ikeja, Lagos","₦200,000,000",3.0,3.0,4.0,2.0
+4 bedroom terraced duplex for sale,"Lekki Phase 1, Lekki, Lagos","₦400,000,000",4.0,4.0,5.0,2.0
+3 bedroom terraced duplex for sale,"Lekki Right, Lekki Phase 1, Lekki, Lagos","₦300,000,000",3.0,3.0,4.0,3.0
+4 bedroom house for sale,"Block 6 Plot 1, Lekki Phase 2, Lekki, Lagos","₦120,000,000",4.0,4.0,7.0,
+5 bedroom semi-detached duplex for sale,"Parkview Estate, Parkview, Ikoyi, Lagos","₦850,000,000",5.0,5.0,6.0,
+4 bedroom semi-detached duplex for sale,"Vgc Extension, VGC, Lekki, Lagos","₦250,000,000",4.0,4.0,5.0,2.0
+4 bedroom detached duplex for sale,"Vgc Extension, VGC, Lekki, Lagos","₦205,000,000",4.0,4.0,5.0,4.0
+4 bedroom detached duplex for sale,"Harris Drive, VGC, Lekki, Lagos","₦135,000,000",4.0,4.0,5.0,
+28 bedroom terraced duplex for sale,"Sangotedo, Sangotedo, Ajah, Lagos","₦2,900,000,000",28.0,28.0,56.0,
+2 bedroom flat / apartment for sale,"Ilasan, Lekki, Lagos","₦90,000,000",2.0,2.0,3.0,
+4 bedroom semi-detached duplex for sale,"Ikota, Lekki, Lagos","₦140,000,000",4.0,4.0,5.0,2.0
+5 bedroom semi-detached duplex for sale,"Royal Garden Estate, Ajah, Lagos","₦400,000,000",5.0,5.0,6.0,
+5 bedroom detached duplex for sale,"Royal Garden Estate, Ajah, Lagos","₦500,000,000",5.0,5.0,6.0,8.0
+Land for sale,"Surulere, Lagos","₦400,000,000",,,,
+Land for sale,"Surulere, Lagos","₦400,000,000",,,,
+4 bedroom terraced duplex for sale,"1st Avenue, Gwarinpa, Abuja","₦125,000,000",4.0,4.0,4.0,5.0
+4 bedroom terraced duplex for sale,"Jahi, Abuja","₦160,000,000",4.0,4.0,5.0,5.0
+4 bedroom semi-detached duplex for sale,"Ikoyi, Lagos","₦900,000,000",4.0,4.0,5.0,3.0
+4 bedroom detached duplex for sale,"Royal Garden Estate, Ajah, Lagos","₦450,000,000",4.0,4.0,5.0,
+4 bedroom terraced duplex for sale,"Victoria Island (VI), Lagos","₦500,000,000",4.0,4.0,5.0,2.0
+3 bedroom detached bungalow for sale,"Allen, Ikeja, Lagos","₦240,000,000",3.0,,5.0,30.0
+4 bedroom terraced duplex for sale,"Lekki Phase 1, Lekki, Lagos","₦400,000,000",4.0,4.0,5.0,3.0
+3 bedroom block of flats for sale,"Lekki Phase 1, Lekki, Lagos","₦2,000,000,000",3.0,3.0,4.0,
+5 bedroom detached duplex for sale,"Lekki Phase 1, Lekki, Lagos","₦800,000,000",5.0,5.0,6.0,4.0
+4 bedroom block of flats for sale,"Okota, Isolo, Lagos","₦175,000,000",4.0,4.0,4.0,3.0
+4 bedroom detached duplex for sale,"High Castle Estate, Boys Town, Ipaja, Lagos","₦110,000,000",4.0,5.0,5.0,4.0
+4 bedroom terraced duplex for sale,"Orchid, Lekki, Lagos","₦130,000,000",4.0,4.0,5.0,2.0
+5 bedroom detached duplex for sale,"Royal Garden Estate, Ajah, Lagos","₦620,000,000",5.0,5.0,6.0,8.0
+5 bedroom detached duplex for sale,"Royal Garden Estate, Ajah, Lagos","₦330,000,000",5.0,5.0,6.0,
+8 bedroom detached duplex for sale,"Royal Garden Estate, Ajah, Lagos","₦900,000,000",8.0,8.0,9.0,
+5 bedroom detached duplex for sale,"Royal Garden Estate, Ajah, Lagos","₦700,000,000",5.0,5.0,6.0,15.0
+4 bedroom detached duplex for sale,"Orchid, Lekki, Lagos","₦200,000,000",4.0,4.0,5.0,3.0
+4 bedroom terraced duplex for sale,"Orchid, Lekki, Lagos","₦100,000,000",4.0,4.0,5.0,2.0
+5 bedroom detached duplex for sale,"Chevron, Lekki, Lagos","₦690,000,000",5.0,5.0,5.0,4.0
+5 bedroom detached duplex for sale,"Royal Garden Estate, Lekki, Lagos","₦400,000,000",5.0,5.0,6.0,6.0
+Block of flats for sale,"Off Ogudu Road, Ojota, Lagos","₦135,000,000",,,,
+4 bedroom terraced duplex for sale,"Royal Garden Estate, Ajah, Lagos","₦125,000,000",4.0,4.0,5.0,
+5 bedroom detached duplex for sale,"Royal Garden Estate, Ajah, Lagos","₦400,000,000",5.0,5.0,6.0,10.0
+5 bedroom detached duplex for sale,"Royal Garden Estate, Ajah, Lagos","₦320,000,000",5.0,5.0,6.0,
+5 bedroom detached duplex for sale,"Royal Garden Estate, Ajah, Lagos","₦550,000,000",5.0,5.0,6.0,6.0
+4 bedroom terraced duplex for sale,"Ikeja GRA, Ikeja, Lagos","₦380,000,000",4.0,4.0,5.0,
+4 bedroom detached duplex for sale,"K-farm,  Obawole, Ogba, Ikeja, Lagos","₦150,000,000",4.0,,,
+3 bedroom detached bungalow for sale,"Ogba, Ikeja, Lagos","₦100,000,000",3.0,,,
+5 bedroom semi-detached duplex for sale,"Parkview, Ikoyi, Lagos","₦650,000,000",5.0,6.0,6.0,5.0
+4 bedroom detached duplex for sale,"Ikota, Lekki, Lagos","₦250,000,000",4.0,,,
+4 bedroom detached duplex for sale,"Ikota, Lekki, Lagos","₦250,000,000",4.0,4.0,5.0,
+5 bedroom detached duplex for sale,"Ikota Villa, Ikota, Lekki, Lagos","₦450,000,000",5.0,,,
+5 bedroom detached duplex for sale,"Lekki, Lagos","₦250,000,000",5.0,6.0,6.0,5.0
+Land for sale,"Peace Estate, Gbagada, Lagos","₦45,000,000",,,,
+Residential land for sale,"By Peace Apartment, Jahi, Abuja","₦250,000,000",,,,
+4 bedroom semi-detached duplex for sale,"Orchid, Lekki, Lagos","₦250,000,000",4.0,4.0,5.0,2.0
+4 bedroom terraced duplex for sale,"Ogudu, Lagos","₦180,000,000",4.0,4.0,5.0,
+4 bedroom detached duplex for sale,"Lekki Phase 1, Lekki, Lagos","₦205,000,000",4.0,5.0,5.0,4.0
+Block of flats for sale,"Obawole Ogba, Ifako-Ijaiye, Lagos","₦120,000,000",,,,
+Commercial land for sale,"Awolowo Road, Ikoyi, Lagos","₦850,000,000",,,,
+Mixed-use land for sale,"In A Serene Area In Surulere, Surulere, Lagos","₦230,000,000",,,,
+Land for sale,"In A Secured & Serene Neighborhood In Maryland, Maryland, Lagos","₦500,000,000",,,,
+2 bedroom terraced duplex for sale,"Ajah, Lagos","₦60,000,000",2.0,2.0,3.0,
+4 bedroom detached duplex for sale,"Ajah, Lagos","₦150,000,000",4.0,4.0,5.0,
+4 bedroom semi-detached duplex for sale,"Ajah, Lagos","₦80,000,000",4.0,4.0,5.0,
+2 bedroom flat / apartment for sale,"Freedom Way, Lekki Phase 1, Lekki, Lagos","₦250,000,000",2.0,2.0,3.0,
+Residential land for sale,"Sangotedo, Ajah, Lagos","₦24,000,000",,,,
+3 bedroom detached bungalow for sale,"Lekki Avana ,idera Scheme, Eleko, Ibeju Lekki, Lagos","₦65,000,000",3.0,4.0,4.0,3.0
+3 bedroom detached bungalow for sale,"Idera Scheme Eleko, Eleko, Ibeju Lekki, Lagos","₦58,000,000",3.0,3.0,4.0,2.0
+4 bedroom detached duplex for sale,"Ikota, Lekki, Lagos","₦250,000,000",4.0,4.0,5.0,3.0
+4 bedroom semi-detached duplex for sale,"Ikota, Lekki, Lagos","₦135,000,000",4.0,4.0,5.0,4.0
+4 bedroom detached duplex for sale,"Ikota, Lekki, Lagos","₦200,000,000",4.0,,,
+4 bedroom semi-detached duplex for sale,"Ikota, Lekki, Lagos","₦170,000,000",4.0,,,
+4 bedroom terraced duplex for sale,"Ikate, Lekki, Lagos","₦185,000,000",4.0,4.0,5.0,
+5 bedroom semi-detached duplex for sale,"Secured Estate, GRA Phase 2, Magodo, Lagos","₦350,000,000",5.0,5.0,6.0,
+Mixed-use land for sale,"Amaka Estate,alaba International Airport Agbogazi Axis, Enugu, Enugu","₦2,500,000",,,,
+Mixed-use land for sale,"Pineapple Estate 10min Drive From Imota Rice Mill Factory, Ikorodu, Lagos","₦900,000",,,,
+4 bedroom semi-detached duplex for sale,"Orchid Road, Lekki, Lagos","₦165,000,000",4.0,,,
+4 bedroom terraced duplex for sale,"Victoria Island (VI), Lagos","₦500,000,000",4.0,4.0,5.0,
+4 bedroom terraced duplex for sale,"Lekki, Lagos","₦100,000,000",4.0,4.0,5.0,
+4 bedroom semi-detached duplex for sale,"Maryland, Lagos","₦270,000,000",4.0,4.0,5.0,
+4 bedroom house for sale,"Surulere, Surulere, Lagos","₦240,000,000",4.0,4.0,5.0,
+5 bedroom detached duplex for sale,"Chevron Drive, Lekki, Lagos","₦280,000,000",5.0,,,
+5 bedroom detached duplex for sale,"Chevron Drive, Lekki, Lagos","₦350,000,000",5.0,,,
+3 bedroom flat / apartment for sale,"Surulere, Lagos","₦90,000,000",3.0,3.0,4.0,
+4 bedroom terraced duplex for sale,"Off Toyin Street, Allen, Ikeja, Lagos","₦220,000,000",4.0,,5.0,
+29 bedroom hotel / guest house for sale,"GRA Phase 2, Port Harcourt, Rivers","₦800,000,000",29.0,30.0,33.0,
+4 bedroom detached duplex for sale,"Peter Odili Road, Trans Amadi, Port Harcourt, Rivers","₦400,000,000",4.0,4.0,5.0,5.0
+Residential land for sale,"Oxford Heights Estates, Awoyaya, Ibeju Lekki, Lagos","₦5,500,000",,,,
+Residential land for sale,"Rockstone Ville Estate, Badore, Ajah, Lagos","₦35,000,000",,,,
+4 bedroom terraced duplex for sale,"GRA, Ogudu, Lagos","₦190,000,000",4.0,,5.0,
+4 bedroom detached duplex for sale,"Old Ikoyi, Ikoyi, Lagos","₦870,000,000",4.0,4.0,5.0,4.0
+Residential land for sale,"Eneka Link Road, Eneka, Port Harcourt, Rivers","₦60,000,000",,,,
+4 bedroom detached duplex for sale,"Shell Cooperative, Eneka, Port Harcourt, Rivers","₦270,000,000",4.0,,5.0,
+4 bedroom house for sale,"Surulere, Lagos","₦200,000,000",4.0,4.0,4.0,
+2 bedroom detached bungalow for sale,"Ibeju Lekki, Lagos","₦30,000,000",2.0,2.0,3.0,12.0
+5 bedroom detached duplex for sale,"Royal Garden Estate, Ajah, Lagos","₦550,000,000",5.0,5.0,6.0,4.0
+Residential land for sale,"Royal Palm Estate, Ibeju Lekki, Lagos","₦10,000,000",,,,
+3 bedroom hotel / guest house for sale,"Adjao Estate Close To Airport, Ikeja, Lagos","₦800,000,000",3.0,3.0,4.0,
+3 bedroom semi-detached duplex for sale,"Orchid, Lekki, Lagos","₦100,000,000",3.0,3.0,4.0,
+Land for sale,"Ozumba Mbadiwe, Victoria Island (VI), Lagos","$25,000,000",,,,
+3 bedroom block of flats for sale,"In A Secured Environment In Surulere, Surulere, Lagos","₦90,000,000",3.0,4.0,4.0,3.0
+3 bedroom flat / apartment for sale,"Maryland, Ikeja, Lagos","₦170,000,000",3.0,,4.0,
+4 bedroom semi-detached duplex for sale,"Gbagada, Lagos","₦250,000,000",4.0,4.0,4.0,
+4 bedroom semi-detached duplex for sale,"Magodo, Lagos","₦350,000,000",4.0,4.0,5.0,
+Residential land for sale,"Omole Phase 2, Ikeja, Lagos","₦250,000,000",,,,
+4 bedroom semi-detached duplex for sale,"Opebi, Ikeja, Lagos","₦350,000,000",4.0,,5.0,
+3 bedroom flat / apartment for sale,"Lekki Phase 1, Lekki, Lagos","₦150,000,000",3.0,3.0,4.0,2.0
+Residential land for sale,"Olubunmi City And Resort Estate, Awoyaya, Ibeju Lekki, Lagos","₦25,000,000",,,,
+4 bedroom semi-detached duplex for sale,"Anthony, Maryland, Lagos","₦300,000,000",4.0,4.0,4.0,
+2 bedroom block of flats for sale,"Amity Estate, Abijo, Lekki, Lagos","₦52,000,000",2.0,2.0,3.0,
+2 bedroom block of flats for sale,"Ologolo, Lekki, Lagos","₦75,000,000",2.0,2.0,3.0,
+Commercial land for sale,"Eleko, Ibeju Lekki, Lagos","₦197,000,000",,,,
+2 bedroom flat / apartment for sale,"Ikate, Lekki, Lagos","₦205,000,000",2.0,2.0,3.0,2.0
+4 bedroom semi-detached duplex for sale,"Olowora, Magodo, Lagos","₦150,000,000",4.0,4.0,5.0,4.0
+Mixed-use land for sale,"Epe, Lagos","₦2,300,000",,,,
+3 bedroom block of flats for sale,"Gbagada, Lagos","₦150,000,000",3.0,4.0,4.0,3.0
+Residential land for sale,"Strategically Located Facing Omi Adio - Ido Expressway, Ibadan, Oyo","₦10,200,000",,,,24.0
+5 bedroom detached duplex for sale,"In A Highly Secured Estate In Ikate, Lekki, Lagos","₦930,000,000",5.0,6.0,6.0,5.0
+5 bedroom detached duplex for sale,"In A Secured And Serene Neighbourhood In Ajah, Lekki, Lagos","₦550,000,000",5.0,6.0,6.0,5.0
+Land for sale,"Ikorodu, Lagos","₦2,300,000",,,,
+4 bedroom house for sale,"Ipaja, Lagos","₦110,000,000",4.0,4.0,4.0,
+4 bedroom semi-detached duplex for sale,"Off Command Road, Ipaja, Lagos","₦110,000,000",4.0,,5.0,
+4 bedroom terraced duplex for sale,"Gra, Ogudu, Lagos","₦180,000,000",4.0,5.0,5.0,4.0
+3 bedroom house for sale,"Gbagada, Gbagada, Lagos","₦120,000,000",3.0,3.0,3.0,
+Commercial land for sale,"Omole Phase 2, Ikeja, Lagos","₦550,000,000",,,,
+2 bedroom block of flats for sale,"Ikate, Lekki, Lagos","₦160,000,000",2.0,2.0,3.0,
+3 bedroom detached bungalow for sale,"Eleko, Ibeju Lekki, Lagos","₦58,000,000",3.0,3.0,4.0,
+3 bedroom terraced duplex for sale,"Abijo Gra, Abijo, Lekki, Lagos","₦105,000,000",3.0,3.0,4.0,
+5 bedroom detached duplex for sale,"Ikate, Lekki, Lagos","₦890,000,000",5.0,5.0,6.0,4.0
+Residential land for sale,"Gilmore, Jahi, Abuja","₦400,000,000",,,,
+4 bedroom terraced duplex for sale,"Durumi, Abuja","₦200,000,000",4.0,5.0,5.0,4.0
+5 bedroom detached duplex for sale,"Omole Phase 1, Ikeja, Lagos","₦550,000,000",5.0,5.0,6.0,3.0
+4 bedroom semi-detached duplex for sale,"Opebi, Ikeja, Lagos","₦250,000,000",4.0,4.0,5.0,2.0
+5 bedroom terraced duplex for sale,"Durumi, Abuja","₦250,000,000",5.0,5.0,5.0,4.0
+4 bedroom detached duplex for sale,"Opebi, Ikeja, Lagos","₦350,000,000",4.0,4.0,5.0,3.0
+4 bedroom detached duplex for sale,"Lekki, Lagos","₦250,000,000",4.0,,5.0,
+4 bedroom terraced duplex for sale,"Kaura, Abuja","₦120,000,000",4.0,5.0,5.0,
+4 bedroom terraced duplex for sale,"Ogudu Gra, GRA, Ogudu, Lagos","₦180,000,000",4.0,4.0,5.0,2.0
+3 bedroom block of flats for sale,"3, Olasumbo Taiwo Street, Bakare Estate, Agungi, Lekki, Lagos","₦375,000,000",3.0,3.0,4.0,
+2 bedroom flat / apartment for sale,"Ogba, Ikeja, Lagos","₦100,000,000",2.0,2.0,3.0,2.0
+4 bedroom terraced duplex for sale,"Gaduwa, Abuja","₦190,000,000",4.0,5.0,5.0,
+3 bedroom flat / apartment for sale,"Wuye, Abuja","₦150,000,000",3.0,4.0,4.0,
+4 bedroom detached duplex for sale,"Within A Serviced Estate, Ikota, Lekki, Lagos","₦250,000,000",4.0,4.0,5.0,3.0
+4 bedroom terraced duplex for sale,"Lokogoma District, Abuja","₦190,000,000",4.0,5.0,5.0,
+3 bedroom semi-detached duplex for sale,"GRA Phase 1, Magodo, Lagos","₦110,000,000",3.0,3.0,4.0,3.0
+5 bedroom semi-detached duplex for sale,"Within A Call To Access Estate, Ajah, Lekki, Lagos","₦125,000,000",5.0,5.0,6.0,2.0
+4 bedroom detached duplex for sale,"GRA Phase 1, Magodo, Lagos","₦300,000,000",4.0,4.0,5.0,4.0
+5 bedroom semi-detached duplex for sale,"GRA Phase 1, Magodo, Lagos","₦400,000,000",5.0,5.0,6.0,6.0
+4 bedroom detached duplex for sale,"Ogba, Ikeja, Lagos","₦300,000,000",4.0,4.0,5.0,3.0
+4 bedroom detached duplex for sale,"Akinwunmi Estate, Maryland, Lagos","₦350,000,000",4.0,,,
+Land for sale,"Alpha Beach Road Igbon Efon, Lekki, Lagos","₦350,000,000",,,,
+4 bedroom semi-detached duplex for sale,"Anthony, Anthony, Maryland, Lagos","₦270,000,000",4.0,4.0,5.0,3.0
+16 bedroom detached bungalow for sale,"Ikorodu, Lagos","₦60,000,000",16.0,16.0,16.0,
+Land for sale,"Twin Lake Estate, Lekki, Lagos","$450,000",,,,
+4 bedroom terraced duplex for sale,"Ikoyi Lagos, Ikoyi, Lagos","$750,000",4.0,5.0,6.0,4.0
+5 bedroom house for sale,"Next To American Embassy, Eko Atlantic City, Lagos","$2,000,000",5.0,5.0,3.0,8.0
+5 bedroom detached duplex for sale,"Magodo Gra 2, GRA Phase 2, Magodo, Lagos","₦370,000,000",5.0,5.0,6.0,3.0
+3 bedroom flat / apartment for sale,"Gbagada, Lagos","₦110,000,000",3.0,3.0,4.0,2.0
+3 bedroom semi-detached duplex for sale,"Atlantic Layout Estate, Lekki, Lagos","₦70,000,000",3.0,3.0,1.0,4.0
+5 bedroom detached duplex for sale,"Omole Phase 1, Ikeja, Lagos","₦530,000,000",5.0,5.0,6.0,4.0
+3 bedroom semi-detached duplex for sale,"Magodo Phase 1, Olowora, Magodo, Lagos","₦130,000,000",3.0,3.0,3.0,2.0
+Mixed-use land for sale,"Off Funnab Road Alabata, Abeokuta South, Ogun","₦3,000,000",,,,
+5 bedroom semi-detached duplex for sale,"Magodo Gra Phase 2, GRA Phase 2, Magodo, Lagos","₦350,000,000",5.0,5.0,6.0,3.0
+14 bedroom detached duplex for sale,"Off Ligali Ayorinde Street, Victoria Island Lagos, Victoria Island (VI), Lagos","₦2,400,000,000",14.0,16.0,18.0,15.0
