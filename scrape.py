@@ -69,7 +69,7 @@ def scrape_real_estate_properties(base_url, num_pages):
 
 # Usage
 URL = os.getenv("URL")
-num_pages = 4 # the number of pages to scrape.
+num_pages = 4125 # the number of pages to scrape.
 properties_df = scrape_real_estate_properties(URL, num_pages)
 print(properties_df)
 properties_df.to_csv("properties.csv", index=False) #save to csv.
