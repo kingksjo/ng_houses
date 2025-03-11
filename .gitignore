@@ -1,4 +1,6 @@
 research.ipynb
 /.venv/
 /.env
+scraper.log
+results/
 
